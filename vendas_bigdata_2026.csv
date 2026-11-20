@@ -1,0 +1,1201 @@
+pedido_id,data,cliente_id,categoria,produto,regiao,canal,forma_pagamento,quantidade,preco_unitario,desconto_percentual,valor,frete,avaliacao,devolvido
+PED001179,2026-07-22,CLI0271,Games,Joystick,Norte,App,Cartão de crédito,1,437.67,10,393.9,0.0,,Não
+PED000866,2026-09-01,CLI0132,Eletrônicos,Headset,Sudeste,App,Pix,2,208.55,5,396.25,0.0,,Não
+PED000102,2026-09-15,CLI0198,Eletrônicos,Webcam,Norte,Site,Pix,4,298.89,5,1135.78,0.0,,Não
+PED000440,2026-05-13,CLI0244,Games,Joystick,,App,Pix,2,388.42,0,776.84,0.0,3.3,Não
+PED000059,2026-05-30,CLI0140,Casa,Ventilador,Sudeste,App,Cartão de crédito,1,222.85,0,222.85,27.58,,Não
+PED001121,2026-08-13,CLI0219,Acessórios,Capa notebook,Centro-Oeste,Site,Cartão de débito,1,92.21,5,87.6,26.13,,Não
+PED000324,2026-08-26,CLI0017,Acessórios,Power bank,Sudeste,App,Boleto,1,200.37,0,200.37,24.22,4.7,Não
+PED000975,2026-03-03,CLI0037,Eletrônicos,Headset,Sudeste,Site,Pix,4,206.36,0,825.44,0.0,3.7,Não
+PED000412,2026-05-26,CLI0244,Eletrônicos,SSD 1TB,Nordeste,Site,Cartão de crédito,2,451.81,15,768.08,0.0,3.1,Não
+PED000856,2026-03-19,CLI0115,Escritório,Hub USB,Sul,App,Cartão de crédito,2,140.92,10,253.66,36.06,,Não
+PED000821,2026-06-25,CLI0178,Games,Controle,NORDESTE,Site,Cartão de débito,2,301.83,0,905.49,0.0,3.8,Não
+PED000045,2026-10-12,CLI0098,Games,Microfone, Sudeste ,App,Cartão de crédito,2,363.24,5,690.16,0.0,4.6,Não
+PED000050,2026-10-16,CLI0128,Casa,Liquidificador,Sudeste,App,Cartão de crédito,3,170.03,5,484.59,0.0,3.9,Não
+PED000850,2026-03-19,CLI0294,Acessórios,Carregador,Sudeste,Site,Pix,2,126.2,0,252.4,25.81,3.0,Não
+PED000241,2026-06-07,CLI0170,Escritório,Mesa,Sudeste,App,Cartão de crédito,1,819.57,5,778.59,0.0,4.2,Não
+PED000171,2026-01-23,CLI0205,Escritório,Mesa,Norte,Site,Cartão de débito,1,827.66,0,827.66,0.0,,Não
+PED000524,2026-06-16,CLI0030,Casa,Cafeteira,Sudeste,Site,Pix,4,209.25,15,711.45,0.0,,Não
+PED000766,2026-02-21,CLI0267,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,3,253.9,5,723.62,0.0,3.3,Não
+PED000839,2026-05-06,CLI0094,Games,Mousepad,Nordeste,App,Pix,2,79.2,0,158.4,27.84,3.2,Não
+PED000424,2026-07-06,CLI0197,Eletrônicos,SSD 1TB,Sudeste,App,Pix,1,465.31,0,465.31,0.0,3.4,Sim
+PED000381,2026-06-24,CLI0303,Acessórios,Cabo USB-C,Sudeste,Loja física,Cartão de crédito,1,51.84,0,51.84,29.41,,Não
+PED000610,2026-03-29,CLI0001,Escritório,Mochila,Sudeste,Site,Boleto,4,229.99,5,873.96,0.0,4.0,Não
+PED000677,2026-07-30,CLI0320,Eletrônicos,SSD 1TB,Centro-Oeste,Site,Cartão de crédito,2,416.91,0,833.82,0.0,3.4,Não
+PED000345,2026-08-14,CLI0120,Games,Mousepad,Sudeste,Site,Cartão de crédito,3,73.71,0,221.13,36.67,,Não
+PED000110,2026-06-06,CLI0219,Escritório,Suporte notebook,Sudeste,Site,Cartão de crédito,2,140.59,5,267.12,23.31,4.6,Não
+PED000278,2026-03-15,CLI0192,Games,Microfone,Norte,Site,Cartão de débito,1,317.83,5,301.94,22.25,3.2,Não
+PED000678,2026-04-11,CLI0064,Acessórios,Cabo USB-C,Sudeste,App,Cartão de crédito,4,51.35,10,184.86,22.29,,Não
+PED000571,2026-01-08,CLI0099,Acessórios,Cabo USB-C,Nordeste,Site,Boleto,1,53.25,5,50.59,30.82,4.0,Não
+PED000359,2026-08-21,CLI0104,Eletrônicos,Teclado mecânico,Centro-Oeste,Site,Pix,2,260.47,0,520.94,0.0,,Não
+PED000599,2026-10-30,CLI0203,Casa,Aspirador,Sudeste,Loja física,Pix,3,383.65,0,1150.95,0.0,3.3,Não
+PED000391,2026-10-01,CLI0241,Eletrônicos,Headset,Sul,Loja física,Cartão de crédito,1,194.02,20,155.22,19.66,4.4,Não
+PED000894,2026-05-18,CLI0028,Casa,Ventilador,Sul,Site,Cartão de crédito,1,263.69,0,263.69,23.66,4.8,Não
+PED000693,2026-09-13,CLI0216,Eletrônicos,Webcam,Sudeste,Site,Cartão de crédito,2,265.14,0,530.28,0.0,4.6,Não
+PED000728,2026-03-31,CLI0197,Casa,Cafeteira,Nordeste,Site,Pix,2,202.94,10,365.29,0.0,4.5,Não
+PED000363,2026-01-26,CLI0029,Games,Mousepad,Nordeste,Site,Cartão de débito,2,85.3,0,170.6,35.93,3.8,Não
+PED000597,2026-07-13,CLI0196,Eletrônicos,Headset,Nordeste,App,Boleto,1,189.24,0,189.24,19.57,3.7,Não
+PED000428,2026-08-02,CLI0068,Eletrônicos,Headset,Sul,Site,Cartão de crédito,1,187.47,0,187.47,32.85,,Não
+PED000071,2026-10-13,CLI0203,Casa,Ventilador,Sudeste,App,Cartão de crédito,2,248.17,5,471.52,0.0,,Sim
+PED000322,2026-05-20,CLI0273,Games,Suporte headset,Nordeste,Site,Cartão de débito,1,86.12,5,81.81,28.06,4.2,Não
+PED000653,2026-10-10,CLI0108,Acessórios,Carregador,Nordeste,Site,Pix,5,124.79,0,623.95,0.0,4.9,Não
+PED001066,2026-06-24,CLI0061,Casa,Cafeteira,Sudeste,Site,Cartão de crédito,2,239.18,0,478.36,0.0,3.6,Não
+PED000108,2026-05-10,CLI0098,Games,Joystick,Sudeste,Loja física,Pix,2,410.4,10,738.72,0.0,3.8,Não
+PED001109,2026-09-28,CLI0173,Casa,Liquidificador,Norte,App,Pix,1,171.52,5,244.41,18.26,,Não
+PED000356,2026-07-14,CLI0202,Eletrônicos,SSD 1TB,Sul,App,Cartão de crédito,2,494.46,10,890.03,0.0,3.9,Não
+PED000951,2026-09-16,CLI0193,Casa,Aspirador,Sudeste,App,Pix,1,371.43,0,371.43,0.0,4.5,Não
+PED000343,2026-09-04,CLI0250,Casa,Liquidificador,Sudeste,App,Cartão de crédito,5,180.77,0,903.85,0.0,3.9,Não
+PED000355,2026-05-19,CLI0104,Acessórios,Cabo USB-C,Nordeste,Site,Boleto,5,53.56,5,254.41,20.45,3.5,Não
+PED000024,2026-05-08,CLI0182,Escritório,Mesa,Nordeste,Loja física,Pix,2,837.73,15,1424.14,0.0,,Sim
+PED000044,2026-08-19,CLI0238,Eletrônicos,Headset,Sul,App,Pix,2,192.9,5,366.51,0.0,3.5,Não
+PED000244,2026-02-15,CLI0223,Casa,Ventilador,Sul,Site,Boleto,1,217.72,0,217.72,21.7,3.6,Não
+PED000738,2026-04-10,CLI0030,Escritório,Suporte notebook,SUDESTE,Site,Pix,1,136.46,10,122.81,25.94,4.6,Não
+PED001136,2026-04-25,CLI0157,Escritório,Suporte notebook,Sul,Site,Cartão de crédito,2,131.9,15,224.23,14.94,4.0,Não
+PED000368,2026-10-14,CLI0109,Escritório,Suporte notebook,Sudeste,Site,Pix,3,124.91,5,355.99,0.0,3.0,Não
+PED000164,2026-02-17,CLI0167,Escritório,Mochila,Centro-Oeste,Site,Pix,3,250.69,5,714.47,0.0,,Não
+PED001116,2026-06-26,CLI0240,Casa,Liquidificador,Sul,Site,Pix,3,194.26,0,582.78,0.0,4.2,Não
+PED000333,2026-02-06,CLI0107,Casa,Aspirador,Nordeste,Loja física,Cartão de débito,1,411.01,0,411.01,0.0,,Não
+PED000989,2026-05-28,CLI0039,Games,Suporte headset,Sudeste,Site,Pix,1,96.94,0,96.94,28.68,3.8,Não
+PED001173,2026-09-18,CLI0232,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,1,273.33,10,246.0,19.48,,Sim
+PED001002,2026-07-26,CLI0161,Acessórios,Carregador,Sudeste,Site,Cartão de crédito,4,117.01,15,397.83,0.0,,Não
+PED000378,2026-10-18,CLI0240,Eletrônicos,Webcam,Sudeste,Site,Cartão de crédito,3,278.25,15,709.54,0.0,4.8,Não
+PED000310,2026-09-13,CLI0215,Escritório,Mesa,,Site,Cartão de débito,1,842.29,0,842.29,0.0,3.5,Não
+PED000156,2026-09-07,CLI0273,Games,Joystick,Sul,Site,Cartão de crédito,1,470.95,0,470.95,0.0,,Não
+PED000211,2026-10-06,CLI0196,Games,Mousepad,Nordeste,Site,Cartão de crédito,2,86.49,5,164.33,22.1,3.6,Não
+PED000087,2026-04-23,CLI0029,Escritório,Cadeira,Sudeste,Site,Pix,1,665.68,0,665.68,0.0,4.5,Não
+PED000169,2026-07-29,CLI0072,Escritório,Cadeira,Sul,Site,Cartão de crédito,2,740.36,0,1480.72,0.0,,Não
+PED000995,2026-02-04,CLI0131,Acessórios,Cabo USB-C,Centro-Oeste,Site,Boleto,2,47.68,5,90.59,17.18,3.9,Sim
+PED000052,2026-11-01,CLI0017,Acessórios,Película,Sudeste,App,Cartão de crédito,1,41.4,15,35.19,32.48,4.3,Não
+PED000439,2026-08-30,CLI0148,Escritório,Suporte notebook,Sudeste,App,Cartão de crédito,1,120.01,0,120.01,37.85,4.5,Não
+PED000550,2026-03-18,CLI0028,Games,Microfone,Sul,Site,Pix,2,355.78,5,675.98,0.0,,Não
+PED000491,2026-09-01,CLI0308,Acessórios,Película,Sudeste,App,Cartão de débito,2,39.37,5,74.8,13.05,3.9,Não
+PED000426,2026-08-20,CLI0270,Escritório,Suporte notebook,Nordeste,Site,Cartão de crédito,3,140.28,5,399.8,0.0,4.3,Não
+PED000136,2026-02-24,CLI0233,Games,Suporte headset,Norte,App,Cartão de crédito,4,96.21,5,365.6,0.0,3.2,Não
+PED001192,2026-03-06,CLI0294,Games,Suporte headset,Norte,App,Pix,1,93.44,0,93.44,13.07,5.0,Não
+PED000055,2026-10-23,CLI0090,Eletrônicos,Headset,Sul,App,Boleto,1,203.31,5,193.14,24.78,3.7,Não
+PED000079,2026-09-03,CLI0219,Eletrônicos,Mouse sem fio,Nordeste,App,Boleto,1,82.36,5,78.24,13.71,4.3,Não
+PED000431,2026-01-22,CLI0065,Casa,Cafeteira,Sul,Site,Pix,2,227.18,20,363.49,0.0,3.9,Sim
+PED000185,2026-09-07,CLI0002,Escritório,Hub USB,Centro-Oeste,App,Pix,5,153.94,10,692.73,0.0,,Não
+PED000057,2026-10-05,CLI0028,Games,Controle,Sudeste,Site,Cartão de crédito,2,315.49,0,630.98,0.0,4.9,Não
+PED000943,2026-10-31,CLI0049,Casa,Liquidificador,Sudeste,Site,Pix,1,179.8,0,179.8,33.57,,Não
+PED000851,2026-07-04,CLI0110,Eletrônicos,Headset,Sudeste,Site,Cartão de crédito,1,207.0,10,186.3,18.64,,Não
+PED001164,2026-09-26,CLI0173,Games,Joystick,Centro-Oeste,App,Pix,1,438.18,0,438.18,0.0,4.6,Não
+PED000219,2026-05-16,CLI0035,Acessórios,Cabo USB-C,Sudeste,App,Cartão de crédito,1,49.28,0,49.28,16.32,4.8,Não
+PED000845,2026-03-21,CLI0099,Casa,Aspirador,Nordeste,App,Cartão de débito,2,372.48,20,595.97,0.0,,Não
+PED000114,2026-06-13,CLI0034,Acessórios,Cabo USB-C,Sul,Site,Pix,1,51.99,10,46.79,16.53,3.4,Sim
+PED000549,2026-03-02,CLI0067,Acessórios,Cabo USB-C,Nordeste,Site,Pix,1,50.89,20,40.71,18.36,4.2,Não
+PED001019,2026-10-13,CLI0170,Escritório,Mochila,Sul,Site,Pix,2,250.29,5,475.55,0.0,4.2,Não
+PED001073,2026-01-28,CLI0274,Eletrônicos,Teclado mecânico,Norte,Site,Cartão de crédito,4,253.93,10,914.15,0.0,4.0,Não
+PED000175,2026-10-31,CLI0003,Casa,Ventilador,Nordeste,Site,Cartão de crédito,3,218.91,0,656.73,0.0,,Não
+PED001023,2026-03-02,CLI0250,Escritório,Suporte notebook,Centro-Oeste,App,Boleto,2,127.44,10,229.39,19.45,3.3,Não
+PED000616,2026-06-26,CLI0273,Acessórios,Carregador,Sul,Loja física,Pix,2,114.12,10,205.42,30.54,3.3,Não
+PED000514,2026-06-29,CLI0294,Games,Mousepad,Nordeste,App,Cartão de crédito,1,77.15,5,73.29,33.39,3.2,Não
+PED000462,2026-10-02,CLI0136,Acessórios,Cabo USB-C,Sudeste,Loja física,Pix,1,52.32,0,52.32,33.95,3.7,Não
+PED000287,2026-02-22,CLI0141,Eletrônicos,Headset,Nordeste,Site,Cartão de crédito,1,206.04,0,206.04,28.99,,Não
+PED000382,2026-10-31,CLI0167,Acessórios,Cabo USB-C,Sul,App,Pix,4,45.6,0,182.4,33.17,,Não
+PED001008,2026-09-14,CLI0030,Games,Controle,Sudeste,Site,Cartão de crédito,3,284.42,5,810.6,0.0,4.6,Não
+PED000671,2026-06-02,CLI0179,Acessórios,Power bank,Norte,App,Cartão de crédito,3,207.58,5,591.6,0.0,,Não
+PED000535,2026-05-10,CLI0233,Games,Suporte headset,Sudeste,Site,Cartão de crédito,2,96.26,0,192.52,33.95,3.2,Não
+PED000910,2026-01-23,CLI0307,Escritório,Hub USB,Sudeste,App,Cartão de débito,1,152.01,15,129.21,28.28,4.8,Não
+PED000293,2026-01-20,CLI0258,Games,Suporte headset,Nordeste,Site,Cartão de crédito,4,90.61,0,362.44,0.0,,Não
+PED000124,2026-01-24,CLI0292,Acessórios,Power bank,Sul,Site,Pix,1,188.01,5,178.61,33.46,4.2,Não
+PED000583,2026-07-17,CLI0100,Eletrônicos,Mouse sem fio,Nordeste,Loja física,Cartão de crédito,2,87.18,10,156.92,28.51,3.1,Não
+PED000141,2026-08-17,CLI0186,Eletrônicos,SSD 1TB,Sudeste,App,Pix,2,460.4,5,874.76,0.0,3.7,Não
+PED000736,2026-01-22,CLI0255,Casa,Luminária,Sul,App,Cartão de crédito,1,106.89,20,85.51,12.56,4.5,Não
+PED000082,2026-07-10,CLI0285,Acessórios,Cabo USB-C,Sudeste,Loja física,Cartão de crédito,2,49.01,15,83.32,36.47,4.8,Não
+PED000882,2026-10-17,CLI0266,Acessórios,Capa notebook,Centro-Oeste,App,Pix,1,106.66,5,101.33,14.56,4.9,Não
+PED000740,2026-05-09,CLI0254,Eletrônicos,Mouse sem fio,Nordeste,App,Cartão de débito,3,88.88,0,266.64,21.54,4.7,Não
+PED001102,2026-08-04,CLI0294,Games,Suporte headset,Nordeste,Loja física,Cartão de crédito,3,92.45,10,249.62,31.4,4.5,Não
+PED000909,2026-01-24,CLI0060,Games,Controle,Centro-Oeste,Site,Pix,3,319.77,20,767.45,0.0,,Não
+PED001167,2026-03-14,CLI0028,Casa,Cafeteira,Sudeste,Site,Pix,1,219.67,0,219.67,27.58,4.4,Sim
+PED000937,2026-10-31,CLI0032,Acessórios,Power bank,Sul,App,Pix,5,180.91,15,768.87,0.0,3.4,Não
+PED000372,2026-07-10,CLI0155,Acessórios,Carregador,Sudeste,Site,Pix,3,126.56,15,322.73,23.54,4.0,Não
+PED000890,2026-10-08,CLI0141,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,1,268.65,5,255.22,33.1,3.6,Sim
+PED000157,2026-02-19,CLI0124,Casa,Cafeteira,Sudeste,App,Cartão de débito,1,215.37,0,215.37,22.56,5.0,Não
+PED000992,2026-10-17,CLI0157,Escritório,Mesa,Sudeste,Site,Cartão de crédito,1,-917.49,5,871.62,0.0,4.2,Não
+PED000622,2026-10-19,CLI0157,Casa,Cafeteira,Centro-Oeste,Loja física,Cartão de crédito,4,239.05,15,812.77,0.0,,Não
+PED001038,2026-10-25,CLI0283,Eletrônicos,Webcam,Sudeste,Site,Pix,5,283.3,0,1416.5,0.0,3.4,Não
+PED000245,2026-01-03,CLI0128,Casa,Cafeteira,Sudeste,Loja física,Pix,1,220.05,0,220.05,13.7,4.9,Não
+PED000159,2026-04-28,CLI0291,Games,Controle,Sul,Site,Pix,4,323.85,5,1230.63,0.0,4.9,Não
+PED000746,2026-01-08,CLI0141,Casa,Liquidificador,Sudeste,Site,Cartão de crédito,1,176.11,5,167.3,21.4,4.6,Não
+PED000193,2026-02-27,CLI0305,Acessórios,Película,Sudeste,Loja física,Pix,1,38.44,0,38.44,33.81,4.1,Não
+PED000534,2026-10-17,CLI0302,Games,Suporte headset,Sudeste,Site,Pix,2,85.01,5,161.52,32.34,4.4,Sim
+PED000904,2026-02-03,CLI0188,Eletrônicos,SSD 1TB,Sudeste,Loja física,Cartão de crédito,3,417.74,0,1253.22,0.0,,Não
+PED001004,2026-03-22,CLI0300,Escritório,Hub USB,Nordeste,App,Cartão de débito,3,164.27,0,492.81,0.0,,Não
+PED001070,2026-03-31,CLI0216,Eletrônicos,SSD 1TB,Sudeste,App,Pix,1,423.88,0,423.88,0.0,,Não
+PED000414,2026-04-17,CLI0100,Casa,Ventilador,Sudeste,Site,Cartão de débito,4,239.78,0,959.12,0.0,,Não
+PED001187,2026-11-01,CLI0044,Eletrônicos,Headset,Centro-Oeste,App,Cartão de crédito,3,190.72,0,572.16,0.0,4.1,Não
+PED000328,2026-01-31,CLI0079,Escritório,Cadeira,Nordeste,App,Pix,1,767.32,10,690.59,0.0,,Não
+PED000129,2026-07-31,CLI0211,Acessórios,Carregador,Sul,App,Cartão de crédito,3,125.35,10,338.44,25.49,5.0,Não
+PED000695,2026-02-10,CLI0161,Escritório,Hub USB,Sul,Site,Pix,5,149.7,5,711.07,0.0,,Não
+PED000631,2026-01-25,CLI0001,Casa,Luminária,Sudeste,App,Pix,1,108.06,0,108.06,16.81,,Não
+PED000275,2026-02-23,CLI0223,Casa,Ventilador,Nordeste,Loja física,Cartão de crédito,1,237.94,0,237.94,14.28,4.6,Não
+PED001148,2026-03-23,CLI0284,Escritório,Hub USB,Sul,Site,Pix,1,150.46,0,150.46,23.86,,Não
+PED000309,2026-09-23,CLI0005,Acessórios,Cabo USB-C,Sudeste,Site,Cartão de crédito,1,51.03,0,51.03,26.26,3.9,Não
+PED000234,2026-10-28,CLI0177,Casa,Ventilador,Sudeste,Loja física,Cartão de crédito,2,229.59,0,459.18,0.0,4.1,Sim
+PED001048,2026-02-08,CLI0039,Escritório,Hub USB,Sul,App,Pix,1,143.46,0,143.46,14.42,4.0,Não
+PED000623,2026-08-24,CLI0182,Eletrônicos,SSD 1TB,Sudeste,Site,Cartão de crédito,1,414.73,5,393.99,0.0,4.1,Não
+PED000644,2026-03-09,CLI0043,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Cartão de crédito,3,81.08,10,218.92,26.1,,Não
+PED000479,2026-09-11,CLI0221,Escritório,Suporte notebook,Centro-Oeste,App,Boleto,1,134.5,0,134.5,22.62,3.6,Não
+PED000472,2026-05-10,CLI0159,Eletrônicos,Teclado mecânico,Sul,App,Boleto,2,251.64,0,503.28,0.0,3.0,Sim
+PED000926,2026-06-11,CLI0229,Eletrônicos,Headset,Sul,App,Pix,1,202.37,15,172.01,15.95,4.1,Não
+PED001098,2026-02-21,CLI0112,Escritório,Mesa,Sudeste,Site,Pix,1,908.95,5,863.5,0.0,4.3,Não
+PED000627,2026-02-26,CLI0011,Acessórios,Carregador,Sudeste,Site,Pix,2,109.16,10,196.49,23.17,3.0,Não
+PED000395,2026-03-27,CLI0177,Casa,Ventilador,Sudeste,Site,Cartão de débito,1,238.17,5,226.26,24.38,,Não
+PED000637,2026-05-20,CLI0002,Acessórios,Película,Sudeste,Site,Cartão de crédito,3,42.22,5,120.33,30.4,3.6,Não
+PED000768,2026-10-13,CLI0092,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,2,265.05,0,530.1,0.0,4.9,Não
+PED000533,2026-07-05,CLI0253,Casa,Ventilador,Centro-Oeste,App,Pix,1,255.31,0,255.31,34.62,4.0,Não
+PED000718,2026-09-20,CLI0318,Casa,Aspirador,Sul,App,Pix,2,391.31,0,782.62,0.0,4.6,Não
+PED000667,2026-07-18,CLI0048,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,3,230.36,0,691.08,0.0,4.9,Não
+PED000598,2026-10-21,CLI0161,Casa,Cafeteira,Norte,App,Pix,1,221.47,10,199.32,37.48,3.7,Não
+PED000482,2026-07-15,CLI0190,Games,Suporte headset,Sudeste,Loja física,Pix,1,83.96,5,79.76,20.82,3.2,Não
+PED001103,2026-06-01,CLI0188,Eletrônicos,SSD 1TB,Sul,App,Cartão de crédito,0,465.91,0,465.91,0.0,,Não
+PED000315,2026-03-24,CLI0161,Eletrônicos,Mouse sem fio,Sudeste,Site,Pix,2,85.79,5,163.0,34.43,4.2,Sim
+PED000729,2026-06-14,CLI0231,Eletrônicos,Teclado mecânico,Sudeste,Loja física,Cartão de crédito,1,237.53,5,225.65,19.44,3.3,Não
+PED000210,2026-08-17,CLI0315,Escritório,Suporte notebook,Sul,Site,Pix,1,131.22,0,131.22,19.27,3.4,Não
+PED000934,2026-03-07,CLI0055,Eletrônicos,Mouse sem fio,Sudeste,Site,Pix,2,85.17,0,170.34,13.96,,Não
+PED000434,2026-04-10,CLI0114,Escritório,Cadeira,Nordeste,App,Pix,1,748.82,10,673.94,0.0,,Sim
+PED000329,2026-01-11,CLI0184,Acessórios,Carregador,Nordeste,Site,Pix,2,121.32,5,230.51,24.74,4.1,Não
+PED000261,2026-04-11,CLI0202,Escritório,Mochila,Sudeste,App,Pix,1,252.24,0,252.24,28.46,3.2,Não
+PED001117,2026-08-05,CLI0263,Eletrônicos,Teclado mecânico,Norte,Site,Cartão de crédito,2,273.71,0,547.42,0.0,3.9,Não
+PED000307,2026-01-04,CLI0278,Acessórios,Capa notebook,Norte,App,Pix,1,107.85,15,91.67,26.94,3.4,Não
+PED001067,2026-04-21,CLI0170,Eletrônicos,Webcam,Sudeste,App,Pix,2,251.92,10,453.46,0.0,,Não
+PED000928,2026-07-14,CLI0011,Acessórios,Película,Sul,Loja física,Pix,1,40.47,5,38.45,12.52,4.3,Não
+PED001025,2026-01-02,CLI0017,Casa,Cafeteira,Sudeste,Loja física,Pix,2,234.27,0,468.54,0.0,3.1,Não
+PED000271,2026-10-21,CLI0038,Escritório,Hub USB,Nordeste,Site,Pix,1,136.95,5,130.1,22.81,3.2,Não
+PED000291,2026-04-21,CLI0242,Escritório,Cadeira,Centro-Oeste,Site,Cartão de débito,2,741.14,10,1334.05,0.0,4.3,Não
+PED000813,2026-02-27,CLI0218,Games,Microfone,Sul,Site,Cartão de crédito,1,338.5,15,287.72,27.34,4.6,Não
+PED000097,2026-02-17,CLI0217,Casa,Aspirador,Sul,Site,Pix,4,387.24,10,1394.06,0.0,5.0,Não
+PED000888,2026-10-14,CLI0204,Games,Microfone,Sul,Site,Pix,2,378.92,5,719.95,0.0,,Não
+PED000819,2026-09-14,CLI0310,Casa,Luminária,Sudeste,Site,Pix,1,94.05,10,84.64,29.09,3.9,Não
+PED000032,2026-08-01,CLI0100,Eletrônicos,Webcam,Nordeste,Site,Pix,1,290.4,15,246.84,34.37,,Não
+PED000763,2026-04-29,CLI0073,Games,Controle,Sudeste,App,Cartão de crédito,1,305.8,0,305.8,35.16,3.4,Não
+PED000954,2026-06-15,CLI0292,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,2,199.77,15,339.61,15.64,3.3,Não
+PED000320,2026-01-06,CLI0070,Casa,Luminária,Sudeste,Site,Pix,4,108.83,5,413.55,0.0,3.9,Não
+PED000299,2026-08-30,CLI0046,Eletrônicos,Teclado mecânico,Sudeste,Site,Pix,1,244.12,20,195.3,27.96,4.4,Não
+PED000200,2026-06-14,CLI0164,Acessórios,Carregador,Sudeste,Site,Pix,2,129.54,0,259.08,32.91,,Sim
+PED000561,2026-09-08,CLI0102,Eletrônicos,SSD 1TB,Sudeste,Loja física,Pix,1,474.58,0,474.58,0.0,4.0,Não
+PED000179,2026-07-29,CLI0213,Games,Joystick,Nordeste,Site,Pix,2,455.34,0,910.68,0.0,3.4,Não
+PED001132,2026-08-24,CLI0101,Games,Joystick,Sudeste,App,Cartão de crédito,1,408.11,20,326.49,29.77,,Não
+PED000089,2026-01-11,CLI0317,Eletrônicos,Webcam,Sul,App,Pix,1,257.84,5,244.95,22.41,4.7,Não
+PED000788,2026-03-28,CLI0119,Acessórios,Carregador,Norte,Site,Cartão de débito,1,111.86,15,95.08,20.41,,Não
+PED000725,2026-09-14,CLI0258,Casa,Luminária,Sudeste,Loja física,Cartão de crédito,2,93.4,0,186.8,29.05,3.9,Não
+PED000827,2026-06-16,CLI0086,Acessórios,Cabo USB-C,Sul,Site,Pix,1,52.32,15,44.47,29.01,4.7,Não
+PED000209,2026-06-19,CLI0237,Casa,Cafeteira,Sudeste,Loja física,Cartão de crédito,2,219.73,0,439.46,0.0,3.7,Não
+PED001040,2026-02-19,CLI0148,Casa,Luminária,Sudeste,App,Cartão de crédito,1,109.55,15,93.12,34.18,3.5,Não
+PED000297,2026-07-31,CLI0286,Acessórios,Carregador,Sul,Site,Cartão de crédito,1,115.26,0,115.26,30.34,,Não
+PED000998,2026-05-02,CLI0284,Games,Microfone,Sul,App,Pix,5,341.73,5,1623.22,0.0,3.3,Não
+PED000498,2026-08-16,CLI0011,Casa,Liquidificador,Centro-Oeste,App,Pix,2,191.91,0,383.82,0.0,4.3,Não
+PED000835,2026-06-05,CLI0007,,Aspirador, Sudeste ,App,Cartão de crédito,5,392.37,5,1863.76,0.0,3.7,Não
+PED000430,2026-01-25,CLI0146,Escritório,Suporte notebook,Sul,Site,Boleto,2,124.32,20,198.91,33.82,4.3,Não
+PED000507,2026-04-14,CLI0004,Casa,Cafeteira,Sudeste,App,Pix,2,201.66,0,403.32,0.0,,Não
+PED000831,2026-07-23,CLI0021,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,2,197.04,0,394.08,0.0,3.5,Não
+PED000694,2026-05-26,CLI0207,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,1,252.82,5,240.18,33.58,3.6,Não
+PED000011,2026-01-30,CLI0291,Escritório,Mesa,Norte,Site,Cartão de crédito,1,946.8,10,852.12,0.0,4.0,Não
+PED000848,2026-10-14,CLI0111,Escritório,Mochila,Sul,Site,Pix,1,223.61,10,201.25,36.48,4.9,Sim
+PED000463,2026-08-07,CLI0040,Games,Joystick,Nordeste,Site,Cartão de débito,1,433.33,0,433.33,0.0,4.2,Não
+PED000199,2026-01-02,CLI0007,Casa,Aspirador,Sudeste,Site,Pix,1,434.38,15,369.22,0.0,4.8,Não
+PED000060,2026-08-01,CLI0260,Eletrônicos,Headset,Sudeste,Site,Cartão de crédito,3,203.1,5,578.83,0.0,,Não
+PED000907,2026-02-15,CLI0301,Eletrônicos,Teclado mecânico,Nordeste,App,Pix,1,227.31,0,227.31,37.14,3.7,Não
+PED000997,2026-04-15,CLI0291,Eletrônicos,Webcam,Sudeste,Site,Boleto,2,267.82,0,535.64,0.0,4.2,Não
+PED000276,2026-05-13,CLI0231,Games,Mousepad,Sul,Site,Pix,2,80.46,5,152.87,28.08,,Não
+PED000809,2026-07-21,CLI0178,Acessórios,Capa notebook,Sul,App,Cartão de crédito,1,102.07,10,91.86,21.6,4.6,Não
+PED000908,2026-09-26,CLI0261,Acessórios,Capa notebook,Sudeste,App,Boleto,1,108.89,15,92.56,30.52,3.4,Não
+PED000658,2026-03-26,CLI0191,Acessórios,Película, Nordeste ,Site,Pix,1,40.72,10,36.65,12.73,4.1,Não
+PED000957,2026-06-13,CLI0203,Casa,Aspirador,Sudeste,App,Cartão de crédito,2,415.67,5,789.77,0.0,4.2,Não
+PED000886,2026-02-15,CLI0316,Casa,Ventilador,Sul,App,Boleto,1,230.58,15,195.99,14.35,4.2,Não
+PED000221,2026-03-24,CLI0281,Casa,Ventilador,Norte,Loja física,Pix,5,258.77,10,1164.46,0.0,4.3,Não
+PED000789,2026-08-06,CLI0168,Games,Joystick,Sudeste,App,Pix,1,453.45,10,408.11,0.0,4.7,Não
+PED000712,2026-10-18,CLI0178,Acessórios,Película,Sudeste,Loja física,Cartão de crédito,2,39.63,0,79.26,37.13,4.3,Não
+PED000714,2026-05-26,CLI0258,Casa,Luminária,Nordeste,App,Pix,1,95.32,20,76.26,17.11,3.2,Não
+PED001113,2026-05-24,CLI0254,Escritório,Mesa,Sul,App,Pix,1,979.62,15,832.68,0.0,,Não
+PED001191,2026-06-09,CLI0228,Acessórios,Capa notebook,Sudeste,App,Pix,1,109.51,0,109.51,31.76,,Não
+PED000790,2026-04-20,CLI0143,Eletrônicos,SSD 1TB,Nordeste,App,Cartão de crédito,2,486.48,10,875.66,0.0,3.9,Não
+PED000416,2026-10-31,CLI0215,Casa,Ventilador,Sudeste,App,Pix,3,231.56,0,694.68,0.0,,Não
+PED000899,2026-07-01,CLI0221,Eletrônicos,Headset,Centro-Oeste,App,Pix,1,188.97,20,151.18,28.46,4.5,Não
+PED000935,2026-02-06,CLI0236,Escritório,Mochila,Sul,Site,Cartão de crédito,2,218.6,0,437.2,0.0,,Não
+PED000266,2026-09-25,CLI0196,Acessórios,Cabo USB-C,Sudeste,App,Pix,2,46.52,0,93.04,18.51,,Não
+PED000632,2026-02-19,CLI0283,Escritório,Cadeira,Nordeste,Site,Pix,3,733.91,5,2091.64,0.0,3.5,Não
+PED000248,2026-03-01,CLI0195,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,1,93.24,0,93.24,22.94,4.0,Não
+PED000683,2026-04-06,CLI0114,Acessórios,Power bank,Sudeste,App,Pix,3,200.76,10,542.05,0.0,3.5,Não
+PED000559,2026-06-03,CLI0012,Acessórios,Capa notebook,Sul,Site,Pix,5,109.78,5,521.45,0.0,,Não
+PED001137,2026-10-25,CLI0020,Games,Microfone,Sudeste,Site,Pix,1,335.46,0,335.46,33.52,3.4,Não
+PED000968,2026-01-25,CLI0046,Acessórios,Carregador,Sul,Site,Cartão de crédito,1,123.7,0,123.7,26.33,4.5,Não
+PED001005,2026-10-11,CLI0041,Casa,Cafeteira,Sul,Site,Pix,1,217.08,15,184.52,16.84,3.3,Não
+PED000985,2026-09-19,CLI0058,Escritório,Cadeira,Sul,Site,Cartão de crédito,1,743.5,0,743.5,0.0,4.0,Não
+PED000295,2026-08-06,CLI0245,Games,Controle,Nordeste,Loja física,Pix,2,302.52,0,605.04,0.0,4.5,Não
+PED000520,2026-07-29,CLI0203,Games,Suporte headset,Sudeste,Site,Cartão de crédito,1,85.9,0,85.9,16.31,4.3,Não
+PED000771,2026-02-01,CLI0166,Casa,Ventilador,Sudeste,Site,Pix,1,235.04,15,199.78,18.98,,Não
+PED000084,2026-10-13,CLI0137,Acessórios,Capa notebook,Sudeste,Site,Cartão de crédito,4,96.92,0,387.68,0.0,4.3,Não
+PED000232,2026-07-11,CLI0264,,Capa notebook,Nordeste,Site,Cartão de crédito,1,105.5,5,100.22,26.79,4.8,Não
+PED000621,2026-08-05,CLI0088,Escritório,Cadeira,Sudeste,Site,Boleto,1,705.38,10,634.84,0.0,3.6,Não
+PED000334,2026-05-17,CLI0037,Escritório,Cadeira,Nordeste,Site,Pix,2,644.08,0,1288.16,0.0,3.4,Não
+PED000130,2026-03-30,CLI0273,Acessórios,Power bank,,Site,Cartão de crédito,2,-195.34,10,351.61,0.0,3.4,Não
+PED001012,2026-03-13,CLI0155,Acessórios,Capa notebook,Sudeste,Site,Boleto,4,94.96,0,379.84,0.0,3.7,Não
+PED000645,2026-03-13,CLI0289,Eletrônicos,Teclado mecânico,Centro-Oeste,App,Pix,1,237.1,5,225.24,18.95,3.0,Não
+PED000974,2026-09-16,CLI0254,Casa,Cafeteira, Sudeste ,Site,Boleto,1,215.77,10,194.19,26.09,4.6,Não
+PED000383,2026-02-16,CLI0072,Acessórios,Cabo USB-C,centro-oeste,Loja física,Cartão de crédito,1,46.37,0,46.37,25.81,4.2,Não
+PED000868,2026-09-24,CLI0137,Acessórios,Capa notebook,Nordeste,Site,Cartão de crédito,2,101.49,15,172.53,12.89,,Não
+PED000543,,CLI0150,Casa,Ventilador,Sudeste,Site,Cartão de crédito,2,218.66,5,415.45,0.0,,Não
+PED000248,2026-03-01,CLI0195,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,1,93.24,0,93.24,22.94,4.0,Não
+PED000875,2026-07-19,CLI0244,Acessórios,Power bank,Sul,Site,Boleto,1,180.46,5,171.44,20.1,,Não
+PED000332,2026-04-02,CLI0104,Eletrônicos,Teclado mecânico,Sudeste,Site,Pix,2,244.33,5,464.23,0.0,4.2,Não
+PED000410,2026-03-03,CLI0280,Acessórios,Power bank,Sudeste,App,Cartão de débito,3,193.44,0,580.32,0.0,3.3,Não
+PED000077,2026-03-31,CLI0014,Games,Microfone,Sudeste,Site,Cartão de débito,2,316.01,0,632.02,0.0,3.8,Não
+PED000869,2026-04-04,CLI0018,Eletrônicos,Teclado mecânico,Nordeste,Site,Pix,1,248.94,15,211.6,16.88,,Sim
+PED000139,2026-06-07,CLI0258,Eletrônicos,Webcam,Centro-Oeste,Loja física,Cartão de crédito,2,287.67,15,489.04,0.0,3.4,Sim
+PED000544,2026-04-11,CLI0104,Acessórios,Power bank,Nordeste,Site,Cartão de crédito,2,208.2,5,395.58,0.0,4.2,Sim
+PED000674,2026-10-07,CLI0308,Casa,Ventilador,Sudeste,Site,Boleto,5,243.59,0,1217.95,0.0,,Não
+PED000921,2026-08-02,CLI0232,Acessórios,Película,Sul,Site,Pix,1,39.09,10,35.18,17.35,3.4,Não
+PED000064,2026-02-05,CLI0148,Games,Controle,Norte,App,Cartão de crédito,1,307.92,15,261.73,23.54,4.8,Não
+PED000142,2026-10-26,CLI0262,Eletrônicos,Teclado mecânico,Sul,Site,Pix,1,253.09,5,240.44,29.49,3.0,Não
+PED000717,2026-07-03,CLI0219,Escritório,Mochila,Sul,Loja física,Cartão de crédito,4,217.18,10,781.85,0.0,3.3,Não
+PED000377,2026-02-14,CLI0092,Acessórios,Cabo USB-C,Nordeste,Loja física,Cartão de crédito,2,49.36,0,98.72,20.64,4.5,Não
+PED000364,2026-11-01,CLI0288,Escritório,Mochila,Sudeste,Site,Cartão de crédito,4,220.38,0,881.52,0.0,3.8,Não
+PED000140,2026-08-21,CLI0192,Acessórios,Carregador,,App,Cartão de crédito,2,123.83,0,247.66,18.43,,Não
+PED000885,2026-08-17,CLI0167,Casa,Luminária,Sul,Loja física,Pix,3,94.09,10,254.04,26.23,3.8,Não
+PED001042,2026-07-18,CLI0280,Escritório,Mesa,Norte,App,Boleto,2,984.39,10,1771.9,0.0,,Não
+PED000225,2026-02-01,CLI0050,Escritório,Mochila,Sudeste,Site,Cartão de crédito,5,244.21,5,1160.0,0.0,,Não
+PED000515,2026-02-17,CLI0067,Acessórios,Cabo USB-C,Sul,Site,Pix,2,50.78,5,96.48,22.26,4.0,Não
+PED000267,2026-10-05,CLI0232,Escritório,Mesa,Sudeste,Loja física,Cartão de crédito,3,943.53,5,2689.06,0.0,4.6,Não
+PED001170,2026-08-15,CLI0179,Eletrônicos,Headset,Sudeste,Site,Pix,1,199.08,0,199.08,33.76,3.9,Não
+PED000487,2026-09-13,CLI0169,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de crédito,1,254.42,20,203.54,33.76,3.2,Não
+PED000353,2026-06-05,CLI0141,Acessórios,Película,Sudeste,Site,Pix,1,43.78,5,41.59,27.75,4.2,Não
+PED001006,2026-01-27,CLI0091,Eletrônicos,SSD 1TB,Sudeste,Site,Cartão de crédito,1,415.49,20,332.39,27.67,4.5,Não
+PED000618,2026-02-14,CLI0161,Casa,Luminária,Centro-Oeste,App,Pix,1,91.78,5,87.19,14.2,4.9,Não
+PED000668,2026-07-25,CLI0163,Acessórios,Carregador,Sudeste,App,Pix,2,110.65,5,210.24,26.17,,Não
+PED000775,2026-01-18,CLI0064,Casa,Liquidificador,Nordeste,Site,Pix,3,193.45,15,493.3,0.0,4.0,Não
+PED000554,2026-04-02,CLI0136,Acessórios,Cabo USB-C,Nordeste,Site,Pix,3,50.03,5,142.59,32.43,,Não
+PED000576,2026-02-10,CLI0192,Acessórios,Carregador,Sul,Site,Pix,2,113.62,10,204.52,37.7,4.8,Não
+PED000915,2026-01-23,CLI0079,Casa,Luminária,Sudeste,Loja física,Boleto,1,93.92,5,89.22,22.17,3.6,Não
+PED000466,2026-07-31,CLI0147,Eletrônicos,Teclado mecânico,Nordeste,Site,Cartão de crédito,1,230.59,0,230.59,18.39,,Não
+PED000591,2026-06-25,CLI0123,Escritório,Suporte notebook,Norte,App,Pix,1,126.16,0,126.16,14.6,4.4,Não
+PED000765,2026-03-01,CLI0041,Casa,Luminária,Nordeste,Site,Pix,1,96.61,5,91.78,31.12,3.1,Não
+PED000635,2026-07-07,CLI0061,Games,Microfone,Centro-Oeste,Site,Pix,4,350.17,0,1400.68,0.0,4.4,Não
+PED000838,2026-07-24,CLI0169,Escritório,Cadeira,Sul,Site,Boleto,3,705.18,0,2115.54,0.0,,Não
+PED000290,2026-09-20,CLI0294,Casa,Liquidificador,Sudeste,Site,Boleto,2,176.5,20,282.4,28.58,,Não
+PED000040,2026-04-13,CLI0319,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,2,235.8,10,424.44,0.0,,Não
+PED000031,2026-05-26,CLI0318,Casa,Cafeteira,Sudeste,App,Cartão de crédito,2,207.79,0,415.58,0.0,3.5,Não
+PED000243,2026-06-11,CLI0093,Acessórios,Carregador,Nordeste,App,Cartão de crédito,1,123.13,0,123.13,19.11,,Não
+PED000429,2026-10-24,CLI0168,Escritório,Hub USB,Sul,App,Cartão de crédito,2,148.64,5,282.42,35.36,4.6,Não
+PED000137,2026-04-06,CLI0173,Acessórios,Power bank,Nordeste,App,Cartão de crédito,1,203.43,15,172.92,33.5,3.2,Não
+PED001101,2026-07-08,CLI0034,Eletrônicos,SSD 1TB,Nordeste,Site,Pix,1,505.46,20,404.37,0.0,3.3,Não
+PED000865,2026-03-22,CLI0179,Games,Mousepad,Centro-Oeste,Site,Boleto,1,79.51,20,63.61,34.26,3.3,Não
+PED000004,2026-04-09,CLI0024,Escritório,Mochila,Nordeste,App,Boleto,3,257.48,0,772.44,0.0,4.7,Não
+PED000833,2026-08-16,CLI0231,Escritório,Suporte notebook,Nordeste,App,Cartão de crédito,3,120.76,0,362.28,0.0,3.7,Não
+PED000603,2026-10-25,CLI0028,Casa,Luminária,Centro-Oeste,App,Cartão de crédito,1,92.66,10,83.39,19.57,3.4,Não
+PED001034,2026-09-29,CLI0271,Games,Microfone,Norte,App,Cartão de crédito,1,381.38,10,343.24,23.83,4.1,Não
+PED000655,2026-03-13,CLI0154,Casa,Ventilador,Sul,App,Cartão de crédito,2,216.54,0,433.08,0.0,4.3,Não
+PED000844,2026-06-25,CLI0276,Eletrônicos,Webcam,Nordeste,Site,Pix,1,269.11,0,269.11,31.93,4.4,Não
+PED000784,2026-05-09,CLI0108,Games,Suporte headset,Centro-Oeste,Loja física,Cartão de crédito,3,83.34,5,237.52,33.56,3.8,Não
+PED001074,2026-05-04,CLI0311,Casa,Liquidificador,Sul,Site,Cartão de crédito,1,180.8,0,180.8,18.79,4.7,Não
+PED000443,2026-07-10,CLI0211,Games,Microfone,Sudeste,Loja física,Pix,1,330.38,0,330.38,35.32,4.7,Não
+PED001178,2026-05-19,CLI0162,Eletrônicos,SSD 1TB,Sudeste,Loja física,Pix,3,417.8,5,1190.73,0.0,4.6,Não
+PED000436,2026-02-14,CLI0228,Acessórios,Capa notebook,Nordeste,Site,Cartão de crédito,1,104.46,15,88.79,30.94,4.7,Não
+PED001169,2026-05-27,CLI0031,Eletrônicos,Teclado mecânico,Sudeste,App,Boleto,1,249.72,15,212.26,28.64,4.8,Não
+PED000101,2026-03-05,CLI0083,Eletrônicos,SSD 1TB,Sudeste,Loja física,Pix,1,500.96,0,500.96,0.0,3.7,Não
+PED000773,2026-06-20,CLI0284,Acessórios,Cabo USB-C,Sudeste,Site,Pix,2,54.74,10,98.53,22.28,3.6,Não
+PED000495,2026-04-05,CLI0310,Casa,Liquidificador,Sudeste,App,Cartão de crédito,1,176.12,0,176.12,29.05,3.8,Não
+PED001028,2026-08-20,CLI0157,Casa,Ventilador,Sudeste,App,Pix,3,227.19,20,545.26,0.0,3.7,Não
+PED000807,2026-06-04,CLI0095,Casa,Liquidificador,Sudeste,Site,Pix,1,186.55,10,167.9,21.73,3.7,Não
+PED001142,2026-06-23,CLI0217,Escritório,Mochila,Norte,App,Pix,2,245.35,0,490.7,0.0,4.9,Não
+PED000846,2026-04-28,CLI0156,Acessórios,Power bank,Sudeste,Site,Cartão de crédito,3,182.89,0,548.67,0.0,4.5,Não
+PED000987,2026-10-17,CLI0212,Games,Controle,Nordeste,Site,Pix,1,273.49,5,259.82,34.64,,Não
+PED000228,2026-07-18,CLI0283,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,3,95.05,5,270.89,25.59,3.8,Não
+PED000921,2026-08-02,CLI0232,Acessórios,Película,Sul,Site,Pix,1,39.09,10,35.18,17.35,3.4,Não
+PED000672,2026-04-12,CLI0297,Eletrônicos,SSD 1TB,Sul,Site,Boleto,4,482.24,10,1736.06,0.0,3.3,Não
+PED000859,2026-01-26,CLI0205,Casa,Ventilador,Sudeste,App,Cartão de crédito,1,262.41,5,249.29,27.04,3.3,Não
+PED000925,2026-02-03,CLI0005,Eletrônicos,Mouse sem fio,Centro-Oeste,Loja física,Pix,1,97.66,0,97.66,31.33,,Não
+PED000067,2026-08-22,CLI0102,Acessórios,Power bank,Norte,Loja física,Pix,1,184.54,0,184.54,30.18,4.7,Não
+PED000068,2026-01-26,CLI0255,Eletrônicos,SSD 1TB,Nordeste,Loja física,Cartão de crédito,1,487.67,0,487.67,0.0,3.5,Não
+PED000817,2026-09-20,CLI0173,Eletrônicos,Webcam,Centro-Oeste,App,Cartão de crédito,1,305.11,0,305.11,28.98,,Não
+PED000212,2026-08-30,CLI0300,Escritório,Cadeira,Norte,Loja física,Pix,2,667.22,10,1201.0,0.0,,Não
+PED000013,2026-10-11,CLI0113,Eletrônicos,SSD 1TB,Sudeste,App,Pix,1,416.8,0,416.8,0.0,3.6,Não
+PED000494,2026-08-25,CLI0094,Eletrônicos,Mouse sem fio,Centro-Oeste,Site,Pix,2,86.55,10,155.79,31.69,4.6,Não
+PED001165,2026-07-14,CLI0034,Escritório,Suporte notebook,Nordeste,App,Pix,4,135.5,5,514.9,0.0,4.6,Não
+PED000300,2026-08-13,CLI0266,Casa,Ventilador,Sudeste,Site,Cartão de crédito,2,227.03,0,454.06,0.0,3.5,Não
+PED000411,2026-03-26,CLI0298,Escritório,Mochila,Sudeste,Site,Cartão de débito,2,253.22,0,506.44,0.0,3.0,Não
+PED000757,2026-04-03,CLI0086,Acessórios,Carregador,Sudeste,Site,Cartão de crédito,4,125.72,0,502.88,0.0,3.9,Não
+PED001075,2026-03-13,CLI0113,Acessórios,Carregador,Nordeste,Site,Pix,1,118.03,5,112.13,14.08,,Não
+PED000696,2026-01-15,CLI0006,Games,Controle,Sudeste,Loja física,Cartão de débito,2,283.49,0,566.98,0.0,,Não
+PED001151,2026-10-26,CLI0015,Casa,Aspirador,Sudeste,Site,Cartão de crédito,2,409.08,10,736.34,0.0,,Sim
+PED000724,2026-10-16,CLI0298,Acessórios,Cabo USB-C,Sudeste,App,Cartão de débito,2,45.34,15,77.08,37.03,4.4,Não
+PED001016,2026-02-04,CLI0194,Games,Suporte headset,Sudeste,App,Cartão de crédito,2,83.5,10,150.3,17.1,3.6,Não
+PED000528,2026-07-14,CLI0109,Games,Microfone,Sul,App,Pix,2,354.31,0,708.62,0.0,3.2,Não
+PED000600,2026-06-13,CLI0064,Eletrônicos,SSD 1TB,Sudeste,App,Cartão de crédito,2,433.75,0,867.5,0.0,,Não
+PED001120,2026-03-24,CLI0252,Eletrônicos,Mouse sem fio,Centro-Oeste,App,Cartão de débito,1,84.39,5,120.25,37.32,4.1,Não
+PED000567,2026-04-17,CLI0237,Casa,Luminária,Sudeste,App,Cartão de crédito,1,96.78,0,96.78,17.05,3.5,Não
+PED000731,2026-04-08,CLI0293,Games,Joystick,Nordeste,App,Pix,4,460.29,10,1657.04,0.0,4.3,Não
+PED000274,2026-09-07,CLI0099,Games,Joystick,Sudeste,Site,Pix,5,453.4,5,2153.65,0.0,3.4,Não
+PED000967,2026-05-17,CLI0140,Acessórios,Carregador,Norte,Site,Cartão de crédito,3,131.79,0,395.37,0.0,4.7,Não
+PED000238,2026-09-22,CLI0030,Casa,Liquidificador,Nordeste,App,Cartão de crédito,2,186.4,10,335.52,29.04,,Não
+PED000406,2026-02-13,CLI0098,Escritório,Hub USB,Sudeste,Site,Cartão de crédito,2,149.58,0,299.16,26.05,4.1,Não
+PED000003,2026-02-19,CLI0177,Eletrônicos,Webcam,Sul,App,Cartão de crédito,2,306.39,0,612.78,0.0,4.7,Não
+PED000007,2026-05-07,CLI0276,Escritório,Mesa,Sudeste,App,Cartão de débito,1,849.38,20,679.5,0.0,3.2,Não
+PED000312,2026-09-07,CLI0288,Games,Microfone,Centro-Oeste,Site,Pix,1,329.99,0,329.99,33.81,4.5,Não
+PED001091,2026-09-16,CLI0168,Eletrônicos,Mouse sem fio,Norte,Site,Boleto,3,94.91,10,256.26,25.64,4.8,Não
+PED000452,2026-03-15,CLI0303,Eletrônicos,Mouse sem fio,Norte,App,Cartão de débito,1,87.45,0,87.45,17.21,,Não
+PED000722,2026-10-07,CLI0314,Casa,Liquidificador,Nordeste,Loja física,Cartão de crédito,1,184.8,0,184.8,33.28,3.3,Não
+PED000216,2026-08-12,CLI0250,Casa,Liquidificador,Nordeste,Site,Boleto,2,195.33,10,351.59,0.0,4.2,Não
+PED001086,2026-04-06,CLI0118,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,1,656.74,15,558.23,0.0,,Não
+PED000028,2026-07-17,CLI0131,Games,Controle,Sudeste,Site,Cartão de crédito,3,311.11,15,793.33,0.0,,Não
+PED001158,2026-01-09,CLI0121,Eletrônicos,Teclado mecânico,Centro-Oeste,App,Cartão de débito,3,253.59,0,760.77,0.0,4.7,Não
+PED000362,2026-09-13,CLI0003,Acessórios,Película,Sul,App,Pix,2,39.53,5,75.11,27.63,4.8,Não
+PED000823,2026-01-12,CLI0285,Acessórios,Película,Nordeste,Loja física,Pix,2,38.93,15,66.18,15.21,3.4,Não
+PED000781,2026-09-13,CLI0121,Acessórios,Capa notebook,Sudeste,App,Cartão de crédito,3,109.75,0,329.25,14.73,3.8,Não
+PED000629,2026-04-03,CLI0303,Eletrônicos,SSD 1TB,Sul,Site,Pix,1,439.1,0,439.1,0.0,3.0,Não
+PED000454,2026-03-17,CLI0056,Games,Microfone,Sudeste,App,Pix,4,316.99,10,1141.16,0.0,,Não
+PED000739,2026-02-09,CLI0225,Casa,Cafeteira,Sudeste,Site,Pix,2,208.65,0,417.3,0.0,4.0,Não
+PED000536,2026-09-22,CLI0115,Acessórios,Power bank,Sudeste,Loja física,Cartão de crédito,1,185.79,0,185.79,34.88,,Sim
+PED001050,2026-10-23,CLI0280,Eletrônicos,SSD 1TB,Sudeste,App,Pix,4,483.11,0,1932.44,0.0,,Não
+PED000399,2026-02-17,CLI0112,Eletrônicos,Mouse sem fio,Norte,App,Cartão de crédito,1,96.31,0,96.31,29.07,,Não
+PED000257,2026-09-09,CLI0170,Casa,Cafeteira,Norte,Site,Pix,2,215.65,0,431.3,0.0,4.6,Não
+PED000292,2026-10-30,CLI0194,Escritório,Hub USB,Sudeste,Site,Pix,3,150.03,0,450.09,0.0,3.2,Não
+PED000026,2026-04-13,CLI0236,Acessórios,Carregador,Sudeste,App,Cartão de débito,1,123.74,0,123.74,19.24,4.5,Não
+PED000337,2026-10-07,CLI0282,Casa,Aspirador,Centro-Oeste,Site,Boleto,1,391.67,10,352.5,0.0,,Não
+PED000585,2026-03-01,CLI0197,Casa,Cafeteira,Sudeste,App,Boleto,2,206.21,5,391.8,0.0,,Não
+PED000048,2026-06-04,CLI0274,Escritório,Mesa,Sudeste,Site,Pix,1,979.83,5,930.84,0.0,,Não
+PED000319,2026-08-22,CLI0289,Games,Suporte headset,Sudeste,App,Cartão de crédito,4,89.57,0,358.28,0.0,3.6,Não
+PED000107,2026-09-03,CLI0070,Casa,Ventilador,Sudeste,App,Cartão de crédito,1,218.01,0,218.01,13.09,,Não
+PED000799,2026-07-14,CLI0092,Escritório,Cadeira,Sudeste,App,Pix,3,668.1,0,2004.3,0.0,,Não
+PED000056,2026-06-18,CLI0254,Eletrônicos,Teclado mecânico,Sudeste,Loja física,Cartão de débito,2,247.64,0,495.28,0.0,4.9,Não
+PED000523,2026-08-01,CLI0271,Acessórios,Carregador,Sudeste,Site,Pix,1,111.94,0,111.94,18.64,3.6,Não
+PED000214,2026-09-10,CLI0090,Games,Mousepad,Sul,Site,Pix,1,80.32,0,80.32,35.87,3.3,Não
+PED000121,2026-07-09,CLI0055,Acessórios,Carregador,Sudeste,Site,Pix,1,110.23,0,110.23,21.99,3.5,Não
+PED000918,2026-04-25,CLI0019,Games,Controle,Sul,Site,Cartão de crédito,4,326.12,5,1239.26,0.0,4.2,Não
+PED001068,2026-01-14,CLI0293,Games,Mousepad,Sudeste,Site,Pix,1,83.69,10,75.32,17.09,3.3,Não
+PED001118,2026-06-07,CLI0026,Games,Microfone,Nordeste,Site,Cartão de crédito,1,375.38,0,375.38,0.0,4.6,Não
+PED000073,2026-09-10,CLI0121,Eletrônicos,Headset,Centro-Oeste,Site,Cartão de crédito,2,209.62,15,356.35,0.0,4.5,Não
+PED000948,2026-10-16,CLI0010,Casa,Ventilador,Sudeste,Loja física,Pix,1,231.34,5,219.77,24.03,,Sim
+PED000747,2026-03-05,CLI0165,Games,Controle,Nordeste,App,Cartão de crédito,1,270.44,0,270.44,21.33,4.1,Não
+PED000716,2026-03-11,CLI0103,Casa,Luminária,Sudeste,Site,Cartão de crédito,2,100.82,0,201.64,34.77,3.3,Não
+PED000558,2026-08-13,CLI0286,Acessórios,Carregador,Sudeste,Site,Cartão de débito,1,125.6,5,119.32,29.13,3.5,Não
+PED001082,2026-04-05,CLI0032,Games,Suporte headset,Sudeste,Site,Pix,1,95.92,0,95.92,26.45,3.0,Não
+PED001046,2026-02-13,CLI0050,Escritório,Hub USB,Sul,App,Pix,1,149.73,20,119.78,30.87,4.2,Não
+PED000553,2026-03-10,CLI0152,Games,Controle,Sul,Site,Cartão de crédito,1,307.17,5,291.81,24.16,4.6,Não
+PED000562,2026-03-22,CLI0275,Acessórios,Película,Sudeste,App,Pix,4,37.56,15,127.7,20.05,,Não
+PED000425,2026-02-28,CLI0298,Casa,Aspirador,Centro-Oeste,App,Cartão de crédito,3,385.54,15,983.13,0.0,3.8,Não
+PED001014,2026-06-30,CLI0159,Acessórios,Cabo USB-C,Centro-Oeste,Site,Boleto,1,52.01,0,52.01,12.64,4.0,Não
+PED000326,2026-10-09,CLI0130,Casa,Cafeteira,Sul,Site,Pix,1,227.23,20,181.78,18.14,3.0,Não
+PED000924,2026-07-25,CLI0102,Games,Mousepad,Sudeste,Site,Pix,2,84.1,5,159.79,27.87,,Não
+PED000317,2026-09-26,CLI0054,Eletrônicos,Webcam,Sudeste,Site,Cartão de crédito,3,269.23,0,807.69,0.0,4.3,Não
+PED000804,2026-08-22,CLI0223,Acessórios,Capa notebook,Nordeste,Site,Pix,2,101.92,5,193.65,22.43,4.9,Não
+PED001163,2026-10-02,CLI0092,Escritório,Mesa,Sul,Loja física,Cartão de débito,3,828.56,10,2237.11,0.0,3.2,Não
+PED000529,2026-08-10,CLI0259,Games,Microfone,Norte,Site,Cartão de crédito,1,333.2,10,299.88,23.77,5.0,Não
+PED000837,2026-03-03,CLI0183,Casa,Luminária,Sul,App,Cartão de crédito,1,104.82,10,94.34,32.48,,Não
+PED000715,2026-05-08,CLI0198,Acessórios,Power bank,Sudeste,Loja física,Pix,1,182.38,0,182.38,26.66,3.6,Não
+PED000901,2026-03-30,CLI0318,Escritório,Cadeira,Sul,App,Boleto,1,725.54,0,725.54,0.0,3.4,Não
+PED000061,2026-06-20,CLI0279,Acessórios,Power bank,Sudeste,Loja física,Cartão de débito,5,179.98,0,899.9,0.0,,Não
+PED000723,2026-09-01,CLI0149,Games,Mousepad,Nordeste,Loja física,Cartão de crédito,2,78.16,10,140.69,14.79,3.8,Não
+PED000093,2026-11-01,CLI0237,Eletrônicos,SSD 1TB,Sul,Loja física,Cartão de crédito,1,497.52,5,472.64,0.0,4.2,Não
+PED000858,2026-06-05,CLI0139,Casa,Liquidificador,Sudeste,Loja física,Cartão de crédito,1,193.49,15,164.47,15.2,,Não
+PED000619,2026-09-18,CLI0246,Eletrônicos,Webcam,Sul,App,Cartão de crédito,2,258.89,0,517.78,0.0,4.7,Não
+PED000352,2026-08-09,CLI0290,Games,Mousepad,Centro-Oeste,Site,Cartão de crédito,4,73.8,0,295.2,34.87,,Não
+PED000933,2026-03-09,CLI0134,Acessórios,Power bank,Sul,App,Pix,4,205.81,0,823.24,0.0,3.6,Não
+PED000281,2026-09-06,CLI0316,Casa,Luminária,Nordeste,App,Pix,2,106.05,20,169.68,16.38,4.6,Não
+PED000421,2026-09-03,CLI0051,Games,Joystick,Sul,Site,Cartão de crédito,1,449.83,15,382.36,0.0,3.6,Não
+PED001115,2026-07-23,CLI0274,Escritório,Cadeira,Sudeste,Loja física,Pix,1,642.39,0,642.39,0.0,,Não
+PED000360,2026-02-13,CLI0197,Acessórios,Power bank,Nordeste,Loja física,Cartão de crédito,1,191.81,0,191.81,16.44,4.7,Não
+PED000423,2026-02-06,CLI0171,Acessórios,Cabo USB-C,Sul,Site,Cartão de crédito,2,51.02,5,96.94,17.39,4.2,Não
+PED000679,2026-05-18,CLI0158,Games,Microfone,Nordeste,App,Pix,1,377.91,0,377.91,0.0,3.3,Não
+PED000527,2026-10-03,CLI0285,Casa,Liquidificador,Sul,Site,Cartão de crédito,3,172.32,20,413.57,0.0,4.9,Não
+PED000478,2026-02-15,CLI0291,Escritório,Mesa,Sudeste,App,Cartão de crédito,4,891.57,10,3209.65,0.0,4.4,Não
+PED001095,2026-09-16,CLI0123,Casa,Aspirador,Sul,Site,Pix,1,434.59,10,391.13,0.0,,Não
+PED000183,2026-09-21,CLI0049,Games,Microfone,,App,Pix,1,334.32,5,317.6,30.24,3.3,Não
+PED001092,2026-10-28,CLI0213,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,4,85.3,0,341.2,24.28,3.5,Não
+PED000433,2026-03-17,CLI0227,Escritório,Mochila,Sudeste,Site,Cartão de crédito,1,248.44,0,248.44,12.64,3.4,Não
+PED000111,2026-09-20,CLI0082,Acessórios,Power bank,Norte,Site,Cartão de crédito,3,172.23,0,516.69,0.0,,Não
+PED000371,2026-01-16,CLI0274,Casa,Luminária,Centro-Oeste,App,Pix,2,107.18,10,192.92,30.34,3.1,Não
+PED000240,2026-03-29,CLI0286,Games,Microfone,Sudeste,Site,Pix,1,371.48,10,334.33,16.76,3.7,Não
+PED000709,2026-06-30,CLI0171,Acessórios,Cabo USB-C,Centro-Oeste,App,Cartão de débito,4,50.86,0,203.44,29.83,,Não
+PED000630,2026-07-28,CLI0119,Eletrônicos,Webcam,Sudeste,Site,Pix,1,254.8,0,254.8,21.45,,Não
+PED000594,2026-07-17,CLI0100,Acessórios,Cabo USB-C,Nordeste,Loja física,Cartão de débito,3,52.06,0,156.18,24.95,4.7,Sim
+PED000486,2026-05-26,CLI0087,Eletrônicos,Teclado mecânico,Nordeste,App,Cartão de crédito,2,235.53,20,376.85,0.0,4.5,Não
+PED000701,2026-02-24,CLI0187,Casa,Aspirador,Sudeste,Site,Cartão de crédito,1,391.92,0,391.92,0.0,4.4,Sim
+PED000262,2026-09-16,CLI0003,Acessórios,Capa notebook,Sul,Site,Boleto,3,99.56,5,283.75,35.95,4.2,Não
+PED000480,2026-05-08,CLI0235,Games,Joystick,Sudeste,Site,Cartão de débito,5,421.09,0,2105.45,0.0,3.8,Não
+PED000650,2026-03-07,CLI0198,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,5,203.97,5,968.86,0.0,4.9,Não
+PED000340,2026-02-18,CLI0154,Acessórios,Capa notebook,sudeste,App,Pix,3,108.33,0,324.99,34.87,4.9,Não
+PED000669,2026-02-30,CLI0195,Casa,Luminária,Sudeste,App,Cartão de débito,5,94.17,0,470.85,0.0,4.5,Não
+PED000552,2026-10-26,CLI0107,Games,Joystick,Sudeste,Site,Cartão de débito,1,413.22,15,351.24,0.0,4.9,Não
+PED000459,2026-06-24,CLI0220,Games,Controle,Sudeste,Site,Pix,2,284.76,5,541.04,0.0,4.8,Não
+PED000184,2026-09-08,CLI0138,Casa,Ventilador,Sul,Site,Pix,3,252.8,0,758.4,0.0,,Não
+PED000138,2026-09-02,CLI0128,Casa,Liquidificador,Sudeste,Site,Cartão de crédito,1,173.77,5,165.08,26.89,3.7,Não
+PED001161,2026-04-17,CLI0236,Casa,Cafeteira,Sudeste,App,Pix,1,231.84,10,208.66,15.01,3.2,Não
+PED000707,2026-01-11,CLI0040,Acessórios,Power bank,Sudeste,App,Pix,1,188.91,0,188.91,34.7,3.1,Não
+PED000582,2026-01-07,CLI0192,Casa,Cafeteira,Sul,Loja física,Boleto,5,214.32,5,1018.02,0.0,4.2,Não
+PED000081,2026-07-31,CLI0233,Acessórios,Carregador,Sudeste,App,Pix,1,114.02,20,91.22,29.86,3.2,Não
+PED000769,2026-09-06,CLI0201,Casa,Luminária,Sul,App,Pix,1,109.15,15,92.78,31.86,3.9,Não
+PED000870,2026-04-20,CLI0135,Acessórios,Película,Sul,Site,Pix,3,43.28,0,129.84,35.21,4.6,Não
+PED000762,2026-09-23,CLI0316,Casa,Ventilador,Sudeste,Site,Pix,1,239.26,0,239.26,16.4,,Não
+PED000030,2026-10-19,CLI0281,Casa,Aspirador,Nordeste,Site,Pix,3,408.43,0,1225.29,0.0,4.4,Não
+PED000542,2026-04-06,CLI0023,Games,Joystick,Sudeste,Site,Cartão de crédito,4,451.77,0,1807.08,0.0,,Não
+PED000166,2026-04-11,CLI0070,Games,Suporte headset,Sudeste,Loja física,Pix,2,95.37,0,190.74,20.7,,Não
+PED000249,2026-02-23,CLI0317,Casa,Ventilador,Sudeste,Site,Pix,1,225.49,0,225.49,25.6,4.4,Não
+PED000308,2026-07-23,CLI0296,Games,Microfone,Sudeste,App,Cartão de crédito,4,317.19,0,1268.76,0.0,,Não
+PED000448,2026-09-16,CLI0051,Games,Mousepad,Nordeste,App,Cartão de crédito,2,87.32,0,174.64,31.6,4.5,Não
+PED000347,2026-01-10,CLI0270,Games,Mousepad,Sudeste,Site,Pix,3,81.79,0,245.37,29.02,3.8,Não
+PED000335,2026-10-13,CLI0213,,Mousepad,Nordeste,App,Cartão de crédito,2,83.14,5,157.97,14.71,,Não
+PED000286,2026-07-03,CLI0250,Casa,Ventilador,Sudeste,Site,Pix,2,240.76,10,433.37,0.0,4.8,Não
+PED000950,2026-03-16,CLI0164,Acessórios,Capa notebook,Sul,Site,Cartão de débito,1,106.11,0,106.11,36.02,3.6,Não
+PED000098,2026-09-17,CLI0270,Escritório,Cadeira,Sudeste,Site,Cartão de crédito,1,682.64,0,682.64,0.0,,Não
+PED000468,2026-02-12,CLI0153,Eletrônicos,Mouse sem fio,Centro-Oeste,Loja física,Pix,1,92.73,0,92.73,36.52,,Não
+PED001037,2026-01-25,CLI0141,Eletrônicos,Webcam,Sul,Loja física,Boleto,1,300.53,10,270.48,31.94,,Não
+PED000913,2026-10-19,CLI0062,Escritório,Suporte notebook,Sudeste,Loja física,Pix,1,138.9,0,138.9,25.47,4.0,Não
+PED000756,2026-05-06,CLI0209,Casa,Aspirador,Nordeste,App,Cartão de crédito,3,387.23,0,1161.69,0.0,4.0,Não
+PED000945,2026-09-09,CLI0082,Casa,Ventilador,Sudeste,Site,Cartão de crédito,2,244.66,5,464.85,0.0,3.7,Não
+PED000614,2026-07-28,CLI0046,Eletrônicos,SSD 1TB,Sudeste,Site,Pix,3,434.68,0,1304.04,0.0,4.9,Não
+PED000802,2026-04-18,CLI0240,Eletrônicos,SSD 1TB,Sudeste,Loja física,Cartão de crédito,2,457.62,5,869.48,0.0,4.1,Não
+PED000758,2026-09-21,CLI0199,Eletrônicos,Teclado mecânico,Centro-Oeste,Site,Pix,2,260.49,0,520.98,0.0,,Não
+PED000689,2026-08-17,CLI0140,Acessórios,Película,Nordeste,App,Cartão de crédito,1,40.44,0,40.44,28.45,3.3,Não
+PED000066,2026-05-11,CLI0005,Casa,Ventilador,Centro-Oeste,Site,Pix,2,219.45,15,373.06,0.0,,Não
+PED000794,2026-01-15,CLI0079,Eletrônicos,Headset,Nordeste,Site,Cartão de débito,1,213.26,0,213.26,23.53,3.6,Não
+PED000744,2026-05-15,CLI0303,Games,Microfone,Sudeste,Site,Cartão de crédito,2,375.49,10,675.88,0.0,,Não
+PED000568,2026-08-26,CLI0035,Casa,Luminária,Sudeste,App,Cartão de crédito,1,99.32,0,99.32,16.2,,Não
+PED001084,2026-03-29,CLI0158,Games,Microfone,Sudeste,Site,Pix,1,365.09,0,365.09,0.0,,Não
+PED001099,2026-04-18,CLI0136,Games,Mousepad,Sudeste,Loja física,Pix,1,80.77,10,72.69,37.61,,Não
+PED000303,2026-05-12,CLI0295,Eletrônicos,SSD 1TB,Sudeste,Site,Pix,2,436.29,0,872.58,0.0,,Não
+PED000255,2026-01-07,CLI0269,Escritório,Suporte notebook,Nordeste,App,Cartão de crédito,5,134.31,0,671.55,0.0,4.4,Não
+PED000959,2026-10-12,CLI0199,Escritório,Suporte notebook,Sudeste,Site,Cartão de crédito,1,125.41,0,125.41,15.1,3.1,Não
+PED001024,2026-07-12,CLI0052,Escritório,Mochila,Sudeste,App,Pix,2,239.55,0,479.1,0.0,,Não
+PED000313,2026-10-13,CLI0177,Escritório,Mochila,Sudeste,Site,Cartão de débito,5,225.46,5,1070.93,0.0,3.3,Não
+PED000530,2026-06-18,CLI0069,Acessórios,Capa notebook,Nordeste,Site,Cartão de crédito,0,103.35,0,413.4,0.0,,Não
+PED000222,2026-01-28,CLI0106,,Carregador,Norte,Site,Cartão de crédito,4,120.86,5,459.27,0.0,3.2,Não
+PED000389,2026-07-30,CLI0188,Games,Microfone,Sudeste,Site,Cartão de crédito,1,355.52,20,284.42,14.08,,Não
+PED000236,2026-05-21,CLI0193,Games,Microfone,Centro-Oeste,Site,Pix,1,351.34,5,333.77,27.2,5.0,Sim
+PED000810,2026-04-28,CLI0097,Acessórios,Cabo USB-C,Sudeste,Site,Pix,1,46.71,0,46.71,20.09,4.0,Não
+PED000483,2026-05-14,CLI0023,Acessórios,Carregador,Norte,App,Boleto,1,116.56,5,110.73,35.47,4.7,Não
+PED000713,2026-05-31,CLI0021,Escritório,Cadeira,Sudeste,App,Pix,2,630.62,0,1261.24,0.0,,Não
+PED000306,2026-04-13,CLI0124,Casa,Ventilador,Centro-Oeste,Site,Pix,1,245.59,0,245.59,14.77,,Não
+PED001111,2026-07-18,CLI0039,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,3,95.71,0,287.13,36.58,3.1,Não
+PED001090,2026-01-25,CLI0124,Eletrônicos,SSD 1TB,Sul,App,Pix,1,451.16,0,451.16,0.0,4.8,Não
+PED000772,31/11/2026,CLI0294,Eletrônicos,Headset,Centro-Oeste,App,Cartão de crédito,1,218.62,5,207.69,15.36,4.9,Não
+PED000917,2026-01-09,CLI0087,Games,Suporte headset,Nordeste,Site,Pix,4,93.21,0,372.84,0.0,3.1,Não
+PED001139,2026-01-19,CLI0091,Escritório,Cadeira,Sul,App,Boleto,1,712.74,5,677.1,0.0,4.5,Não
+PED000250,2026-09-12,CLI0247,Eletrônicos,SSD 1TB,Sudeste,Site,Cartão de crédito,4,490.73,5,1864.77,0.0,3.2,Não
+PED000760,2026-02-12,CLI0004,Games,Suporte headset,Sul,Site,Cartão de crédito,1,88.8,5,84.36,27.29,,Não
+PED000595,2026-08-17,CLI0277,Acessórios,Carregador,Sudeste,Site,Cartão de crédito,2,110.05,5,209.09,30.61,4.9,Não
+PED000072,2026-08-30,CLI0288,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de crédito,2,248.11,10,446.6,0.0,3.2,Não
+PED000095,2026-06-23,CLI0027,Acessórios,Película,Nordeste,App,Pix,1,41.32,0,41.32,30.82,4.8,Não
+PED000546,2026-04-16,CLI0004,Escritório,Hub USB,Sudeste,Site,Pix,1,143.62,0,143.62,27.23,,Não
+PED000034,2026-08-07,CLI0281,Games,Suporte headset,Sul,Site,Cartão de débito,1,94.43,10,84.99,19.21,,Não
+PED000862,2026-01-24,CLI0128,Escritório,Suporte notebook,Sudeste,Site,Cartão de crédito,1,129.12,0,129.12,27.5,4.5,Não
+PED000579,2026-04-15,CLI0041,Games,Suporte headset,Sudeste,Site,Pix,1,88.53,5,84.1,19.88,4.9,Não
+PED000449,2026-07-07,CLI0095,Games,Joystick,Sudeste,Loja física,Pix,1,419.55,0,419.55,0.0,3.2,Sim
+PED000446,2026-09-05,CLI0022,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,2,89.34,15,151.88,13.13,3.0,Não
+PED000260,2026-07-01,CLI0150,Eletrônicos,Headset,Sul,Site,Pix,0,199.6,10,718.56,0.0,,Não
+PED000205,2026-08-20,CLI0039,Escritório,Suporte notebook,Norte,Site,Cartão de crédito,1,119.65,5,113.67,20.16,3.7,Não
+PED000573,2026-07-08,CLI0112,Escritório,Mochila,Sudeste,App,Cartão de crédito,5,250.1,10,1125.45,0.0,,Não
+PED000824,2026-03-23,CLI0206,Escritório,Mesa,Sul,Site,Pix,4,-860.1,10,3096.36,0.0,4.3,Não
+PED000586,2026-09-30,CLI0196,Escritório,Mochila,Sul,App,Cartão de crédito,4,257.62,0,1030.48,0.0,4.6,Não
+PED000366,2026-05-28,CLI0163,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,4,286.3,5,1087.94,0.0,,Não
+PED000812,2026-01-06,CLI0206,Acessórios,Película,Sudeste,Site,Cartão de crédito,2,36.84,10,66.31,35.61,4.6,Não
+PED000078,2026-08-18,CLI0263,Eletrônicos,Webcam,Sul,Site,Pix,2,292.62,15,497.45,0.0,3.6,Não
+PED000085,2026-09-29,CLI0215,Eletrônicos,Mouse sem fio,Sul,Site,Pix,1,97.84,5,92.95,34.97,4.5,Não
+PED000539,2026-06-10,CLI0034,Eletrônicos,Webcam,Nordeste,Site,Cartão de débito,1,286.1,5,271.8,14.65,3.1,Não
+PED000083,2026-06-09,CLI0296,Escritório,Mochila,Sul,Site,Cartão de crédito,3,232.71,5,663.22,0.0,3.6,Não
+PED000458,2026-01-29,CLI0254,Casa,Aspirador,Sul,Site,Cartão de crédito,3,382.66,0,1147.98,0.0,3.3,Não
+PED001138,2026-08-03,CLI0269,Games,Mousepad,Sudeste,App,Cartão de crédito,1,72.17,5,68.56,36.77,4.7,Não
+PED000615,2026-03-31,CLI0157,Eletrônicos,Mouse sem fio,,App,Pix,1,91.2,0,91.2,19.05,3.1,Não
+PED001186,2026-01-06,CLI0032,Escritório,Hub USB,Nordeste,Site,Pix,1,149.1,0,149.1,33.91,,Não
+PED001076,2026-01-16,CLI0006,Escritório,Suporte notebook,Nordeste,App,Cartão de crédito,3,135.7,0,407.1,0.0,4.5,Não
+PED000737,2026-07-14,CLI0010,Games,Suporte headset,Sul,Site,Cartão de crédito,2,88.64,5,168.42,15.58,4.8,Sim
+PED000437,2026-06-05,CLI0269,Casa,Liquidificador, Norte ,Site,Boleto,2,165.09,0,330.18,35.77,4.1,Não
+PED000555,2026-01-20,CLI0171,Eletrônicos,Headset,Sudeste,Site,Pix,3,207.24,0,621.72,0.0,5.0,Sim
+PED001080,2026-05-21,CLI0208,Escritório,Mochila,,Site,Pix,3,240.46,20,577.1,0.0,3.1,Não
+PED001062,2026-09-12,CLI0077,Games,Mousepad,Norte,Site,Cartão de crédito,2,80.99,0,161.98,17.03,3.6,Não
+PED000351,2026-08-02,CLI0079,Games,Mousepad,Sudeste,Site,Cartão de crédito,1,74.02,5,70.32,27.11,3.4,Não
+PED000197,2026-09-22,CLI0133,Escritório,Mochila,Sudeste,Site,Cartão de débito,1,258.44,10,232.6,12.76,,Não
+PED000465,2026-10-17,CLI0031,Games,Joystick,Sul,Site,Pix,1,445.83,0,445.83,0.0,3.6,Não
+PED000589,2026-02-25,CLI0086,Acessórios,Película,Sudeste,Site,Pix,1,36.15,0,36.15,24.62,,Não
+PED000006,2026-01-17,CLI0206,Eletrônicos,Teclado mecânico,Sudeste,Site,Boleto,3,240.64,5,1028.73,0.0,4.8,Não
+PED000311,2026-10-12,CLI0196,Escritório,Mesa,Sudeste,App,Cartão de crédito,1,811.66,5,771.08,0.0,4.8,Não
+PED000662,2026-03-14,CLI0083,Casa,Liquidificador,Norte,App,Boleto,2,180.74,10,325.33,23.63,3.6,Não
+PED000405,2026-08-24,CLI0149,Escritório,Cadeira,Nordeste,Site,Pix,1,656.65,10,590.99,0.0,,Não
+PED000156,2026-09-07,CLI0273,Games,Joystick,Sul,Site,Cartão de crédito,1,470.95,0,470.95,0.0,,Não
+PED001044,2026-04-19,CLI0318,Games,Joystick,Sul,App,Cartão de crédito,1,472.29,0,472.29,0.0,4.8,Não
+PED001058,2026-05-10,CLI0238,Acessórios,Cabo USB-C,Sudeste,App,Cartão de débito,2,50.14,0,100.28,14.87,3.6,Não
+PED000105,2026-05-04,CLI0096,Games,Microfone,Nordeste,Site,Boleto,1,351.72,5,334.13,37.7,3.8,Não
+PED000537,2026-02-08,CLI0085,Casa,Ventilador,Sudeste,Site,Cartão de crédito,1,236.63,0,236.63,32.73,,Não
+PED000606,2026-07-15,CLI0228,Eletrônicos,Webcam,Sudeste,Site,Pix,2,289.35,5,549.76,0.0,4.1,Não
+PED000063,2026-02-08,CLI0136,Acessórios,Carregador,Sudeste,App,Cartão de crédito,3,128.35,15,327.29,21.88,4.4,Não
+PED000282,2026-07-04,CLI0170,Acessórios,Power bank,Centro-Oeste,Site,Pix,1,191.86,0,191.86,27.77,,Não
+PED001056,2026-01-02,CLI0057,Eletrônicos,SSD 1TB,Nordeste,Site,Pix,1,427.19,10,384.47,0.0,,Não
+PED000239,2026-07-18,CLI0299,Acessórios,Película,Nordeste,App,Pix,2,37.68,5,71.59,32.41,,Não
+PED000224,2026-07-23,CLI0136,Eletrônicos,Headset,Sudeste,App,Pix,3,194.68,5,554.84,0.0,3.9,Não
+PED000146,2026-01-09,CLI0035,Acessórios,Capa notebook,Sudeste,Site,Cartão de crédito,2,90.88,10,163.58,22.46,3.4,Não
+PED001119,2026-05-02,CLI0129,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,4,756.6,10,2723.76,0.0,4.0,Não
+PED000374,2026-01-03,CLI0023,Games,Controle,Nordeste,App,Pix,1,272.68,5,259.05,29.13,4.2,Não
+PED000119,2026-01-24,CLI0296,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,2,81.45,15,138.47,26.19,3.6,Não
+PED000803,2026-02-23,CLI0005,Eletrônicos,Headset,Sudeste,Site,Pix,4,187.39,0,749.56,0.0,4.1,Não
+PED000251,2026-04-29,CLI0136,Eletrônicos,Headset,Sul,Site,Pix,1,191.53,10,172.38,20.13,,Não
+PED001157,2026-09-15,CLI0292,Acessórios,Capa notebook,Sudeste,App,Cartão de crédito,2,107.46,5,204.17,21.29,4.1,Não
+PED000010,2026-04-12,CLI0083,Games,Suporte headset,Sul,App,Cartão de crédito,1,86.74,0,86.74,36.16,,Não
+PED000450,2026-02-26,CLI0254,Eletrônicos,Webcam,Nordeste,App,Cartão de crédito,1,270.28,0,270.28,19.37,3.6,Sim
+PED000874,2026-07-11,CLI0085,Games,Mousepad,Sul,Loja física,Pix,4,83.35,5,316.73,36.83,3.4,Não
+PED000390,2026-09-22,CLI0313,Escritório,Hub USB,Sudeste,Site,Cartão de crédito,5,137.25,5,651.94,0.0,,Não
+PED000966,2026-07-13,CLI0255,Eletrônicos,Webcam,Sudeste,Site,Pix,1,302.15,5,287.04,36.95,,Não
+PED000461,2026-07-19,CLI0051,Acessórios,Capa notebook,Nordeste,Site,Cartão de crédito,1,99.96,10,89.96,20.83,3.7,Não
+PED001147,2026-04-08,CLI0065,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de débito,1,240.15,0,240.15,21.81,3.2,Não
+PED000145,2026-01-12,CLI0279,Casa,Cafeteira,Sudeste,Site,Pix,1,204.73,0,204.73,34.76,,Não
+PED000502,2026-08-30,CLI0083,Acessórios,Power bank,Sul,Site,Cartão de crédito,2,175.81,0,351.62,0.0,3.2,Não
+PED001108,2026-05-17,CLI0282,Casa,Ventilador,Sudeste,Site,Pix,1,255.7,0,255.7,24.53,4.3,Não
+PED000540,2026-07-30,CLI0307,Acessórios,Cabo USB-C,Nordeste,App,Cartão de crédito,1,49.18,5,46.72,14.63,4.4,Não
+PED000178,2026-10-12,CLI0148,Games,Mousepad,Sudeste,Site,Cartão de crédito,1,77.65,0,77.65,15.55,,Sim
+PED001159,2026-02-17,CLI0077,Casa,Aspirador,Nordeste,Site,Boleto,4,419.84,5,1595.39,0.0,3.4,Não
+PED001051,2026-01-27,CLI0049,Escritório,Suporte notebook,Norte,App,Pix,1,129.1,0,129.1,26.09,4.2,Não
+PED000584,2026-05-05,CLI0186,Acessórios,Carregador,Sul,App,Cartão de crédito,2,114.18,5,216.94,29.71,4.2,Sim
+PED000261,2026-04-11,CLI0202,Escritório,Mochila,Sudeste,App,Pix,1,252.24,0,252.24,28.46,3.2,Não
+PED000008,2026-03-23,CLI0217,Eletrônicos,Teclado mecânico,Sul,Site,Cartão de crédito,1,237.48,5,225.61,36.5,3.2,Não
+PED000574,2026-06-16,CLI0199,Escritório,Cadeira,Nordeste,Loja física,Cartão de crédito,1,718.85,15,611.02,0.0,4.7,Não
+PED000843,2026-09-15,CLI0226,Escritório,Mochila,Sudeste,App,Pix,1,258.77,5,245.83,24.89,4.5,Não
+PED000358,2026-01-28,CLI0073,Acessórios,Power bank,Sul,App,Pix,2,177.74,5,337.71,35.25,3.8,Não
+PED000330,2026-10-11,CLI0272,Acessórios,Power bank,Sudeste,Site,Pix,1,170.94,5,162.39,21.86,3.0,Não
+PED000705,2026-07-20,CLI0113,Games,Joystick,Nordeste,Loja física,Pix,1,454.47,0,454.47,0.0,4.2,Não
+PED000830,2026-08-29,CLI0037,Acessórios,Capa notebook,Nordeste,Loja física,Cartão de débito,2,104.21,5,198.0,37.72,3.9,Não
+PED000259,2026-07-06,CLI0115,Acessórios,Power bank,Centro-Oeste,Site,Cartão de crédito,2,198.13,0,396.26,0.0,3.2,Não
+PED000891,2026-08-13,CLI0283,Games,Joystick,Norte,Site,Pix,2,421.27,5,800.41,0.0,,Não
+PED000834,2026-03-23,CLI0157,Escritório,Suporte notebook,Sul,Site,Pix,2,134.97,0,269.94,19.6,4.3,Não
+PED001188,2026-10-24,CLI0245,Acessórios,Película,Nordeste,Site,Pix,1,41.6,0,41.6,32.55,,Não
+PED000905,2026-09-24,CLI0165,Games,Controle,Centro-Oeste,App,Cartão de crédito,2,315.31,5,599.09,0.0,3.3,Não
+PED000526,2026-10-11,CLI0052,Eletrônicos,Headset,Sudeste,App,Cartão de débito,1,196.17,0,196.17,28.53,4.9,Não
+PED000814,2026-01-25,CLI0021,Acessórios,Película,Sudeste,App,Pix,3,41.39,0,124.17,20.77,4.6,Não
+PED000732,2026-03-07,CLI0153,Games,Controle,Sudeste,App,Pix,2,271.26,10,488.27,0.0,4.7,Não
+PED001032,2026-03-26,CLI0048,Casa,Cafeteira,Sul,Loja física,Pix,3,208.47,5,594.14,0.0,,Não
+PED001141,2026-01-30,CLI0299,Acessórios,Película,Sul,App,Cartão de crédito,1,38.29,0,38.29,24.81,3.7,Não
+PED000441,2026-03-25,CLI0185,Casa,Luminária,Sudeste,Loja física,Pix,1,100.49,15,85.42,25.36,,Não
+PED000532,2026-08-25,CLI0099,Eletrônicos,Mouse sem fio,Sul,Site,Pix,1,97.48,0,97.48,14.34,3.6,Não
+PED000960,2026-04-15,CLI0022,Games,Joystick,Sudeste,Site,Boleto,1,452.23,10,407.01,0.0,4.4,Não
+PED000229,2026-02-21,CLI0052,Games,Suporte headset,Nordeste,Loja física,Cartão de débito,3,85.66,5,244.13,26.87,3.3,Não
+PED001041,2026-02-28,CLI0173,Escritório,Mesa,Sudeste,App,Cartão de crédito,1,831.89,5,790.3,0.0,3.2,Não
+PED000213,2026-07-18,CLI0089,Casa,Aspirador,Sudeste,App,Cartão de débito,2,433.01,0,866.02,0.0,4.9,Não
+PED000080,2026-09-29,CLI0259,Escritório,Hub USB,Sul,Site,Cartão de crédito,3,154.42,10,416.93,0.0,,Não
+PED000149,2026-03-15,CLI0030,Casa,Luminária,Sul,Loja física,Cartão de crédito,1,94.76,0,94.76,28.81,,Não
+PED000592,2026-03-04,CLI0144,Casa,Cafeteira,Norte,App,Pix,1,228.09,15,193.88,25.39,3.0,Não
+PED000708,2026-09-26,CLI0076,Escritório,Mesa,Nordeste,Site,Cartão de débito,1,898.22,0,898.22,0.0,4.3,Não
+PED000590,2026-10-26,CLI0050,Escritório,Cadeira,Sudeste,App,Pix,2,764.58,0,1529.16,0.0,4.5,Não
+PED000134,2026-07-28,CLI0244,Games,Mousepad,Sul,Site,Boleto,0,82.23,15,69.9,14.33,4.1,Não
+PED000782,2026-03-04,CLI0225,Casa,Aspirador,Centro-Oeste,Site,Cartão de débito,2,409.99,5,778.98,0.0,4.7,Não
+PED000409,2026-03-29,CLI0033,Eletrônicos,Webcam,Nordeste,Site,Cartão de crédito,3,264.26,10,713.5,0.0,4.6,Sim
+PED000970,2026-06-20,CLI0239,Escritório,Mesa,Sul,App,Cartão de crédito,3,871.72,15,2222.89,0.0,,Não
+PED000508,2026-09-29,CLI0117,Casa,Liquidificador,Sudeste,Site,Boleto,4,196.16,5,745.41,0.0,4.9,Não
+PED000877,2026-05-22,CLI0206,Eletrônicos,Teclado mecânico,Sudeste,App,Boleto,1,247.07,10,222.36,31.78,3.2,Não
+PED000505,2026-02-23,CLI0225,Games,Suporte headset,Nordeste,Loja física,Cartão de crédito,5,94.96,5,451.06,0.0,,Não
+PED000719,2026-02-13,CLI0055,Acessórios,Cabo USB-C,Sudeste,Site,Pix,2,48.22,0,96.44,31.25,4.5,Não
+PED000348,2026-01-10,CLI0198,Escritório,Cadeira,Sudeste,Site,Boleto,1,674.07,15,572.96,0.0,3.4,Não
+PED000387,2026-02-06,CLI0074,Casa,Cafeteira,Nordeste,App,Cartão de crédito,5,201.63,5,957.74,0.0,3.9,Não
+PED000001,2026-05-21,CLI0072,Eletrônicos,Mouse sem fio,nordeste,App,Cartão de débito,1,88.5,0,88.5,17.68,3.1,Não
+PED000361,2026-04-02,CLI0027,Casa,Liquidificador,Sudeste,Site,Cartão de crédito,1,184.45,0,184.45,15.42,4.2,Não
+PED001134,2026-03-27,CLI0207,Escritório,Hub USB,Norte,Site,Cartão de crédito,1,153.14,10,137.83,14.66,,Não
+PED000476,2026-07-30,CLI0232,Casa,Aspirador,Sul,App,Pix,2,426.03,10,766.85,0.0,3.8,Não
+PED000778,2026-01-09,CLI0202,Casa,Ventilador,Norte,App,Cartão de crédito,1,243.64,0,243.64,32.05,4.0,Não
+PED000754,2026-09-26,CLI0163,Games,Joystick,Sudeste,App,Pix,1,407.81,10,367.03,0.0,3.9,Não
+PED000173,2026-06-09,CLI0106,Casa,Luminária,Sul,Site,Pix,2,98.95,0,197.9,13.16,3.0,Não
+PED000451,2026-10-11,CLI0220,Acessórios,Carregador,Sudeste,Site,Cartão de débito,1,124.2,0,124.2,37.97,3.2,Não
+PED000126,2026-09-21,CLI0314,Acessórios,Carregador,Sudeste,Site,Cartão de crédito,3,122.15,5,348.13,25.25,4.1,Não
+PED000931,2026-05-15,CLI0173,Casa,Luminária,Sudeste,App,Cartão de crédito,1,91.51,5,86.93,15.4,,Não
+PED000531,2026-02-11,CLI0040,Acessórios,Capa notebook,Sul,Loja física,Cartão de débito,1,92.38,20,73.9,21.79,3.8,Não
+PED000091,2026-04-01,CLI0253,Casa,Cafeteira,Sul,App,Cartão de crédito,2,236.7,5,449.73,0.0,,Não
+PED001162,2026-01-17,CLI0176,Eletrônicos,Mouse sem fio,Nordeste,Loja física,Cartão de crédito,4,84.47,5,320.99,30.97,4.1,Não
+PED000182,2026-08-08,CLI0072,Games,Microfone,Nordeste,App,Cartão de débito,2,352.16,5,669.1,0.0,5.0,Não
+PED001027,2026-05-26,CLI0237,Games,Controle,Sul,Site,Cartão de crédito,2,275.68,5,523.79,0.0,3.1,Não
+PED001000,2026-08-17,CLI0052,Games,Joystick,Centro-Oeste,Site,Cartão de crédito,1,463.27,15,393.78,0.0,,Não
+PED000252,2026-03-12,CLI0088,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Boleto,1,94.09,0,94.09,20.91,3.8,Não
+PED000070,2026-09-14,CLI0085,Escritório,Mochila,Sudeste,App,Cartão de crédito,3,251.73,0,755.19,0.0,4.9,Não
+PED000132,2026-03-16,CLI0148,Acessórios,Power bank,Norte,Site,Boleto,2,199.29,0,398.58,0.0,,Não
+PED000301,2026-05-22,CLI0181,Casa,Cafeteira,Nordeste,Site,Pix,1,228.86,15,194.53,26.29,,Não
+PED001133,2026-04-10,CLI0294,Acessórios,Carregador,Centro-Oeste,Site,Pix,1,124.23,0,124.23,25.86,5.0,Não
+PED000327,2026-07-22,CLI0005,Games,Controle,Norte,App,Cartão de crédito,2,279.21,10,502.58,0.0,4.0,Não
+PED001020,2026-08-11,CLI0169,Casa,Cafeteira,Centro-Oeste,Site,Boleto,5,200.17,5,950.81,0.0,,Não
+PED000500,2026-01-10,CLI0162,Eletrônicos,SSD 1TB,Sul,Site,Cartão de crédito,3,424.67,5,1210.31,0.0,3.9,Não
+PED000666,2026-08-19,CLI0022,Acessórios,Capa notebook,Sul,App,Cartão de crédito,1,106.32,0,106.32,34.18,3.3,Não
+PED000919,2026-05-09,CLI0233,Casa,Ventilador,Sul,Loja física,Cartão de crédito,3,226.65,0,679.95,0.0,,Sim
+PED000496,2026-06-05,CLI0316,Games,Joystick,Sudeste,App,Cartão de crédito,1,412.93,0,412.93,0.0,3.2,Não
+PED000339,2026-03-21,CLI0188,Acessórios,Power bank,Centro-Oeste,Site,Pix,1,192.58,5,182.95,17.65,3.6,Não
+PED000964,2026-05-24,CLI0012,Escritório,Cadeira,Sudeste,Site,Pix,1,693.87,15,589.79,0.0,,Não
+PED000165,2026-07-14,CLI0138,Games,Mousepad,Sudeste,App,Pix,1,78.64,5,74.71,14.0,3.5,Não
+PED000029,2026-06-19,CLI0064,Acessórios,Cabo USB-C,Nordeste,Site,Pix,1,48.93,0,48.93,15.31,4.9,Não
+PED000517,2026-03-02,CLI0210,Games,Microfone,Sudeste,Site,Pix,2,323.15,0,646.3,0.0,3.6,Não
+PED000194,2026-01-09,CLI0008,Acessórios,Cabo USB-C,sudeste,Site,Pix,3,49.97,5,142.41,25.03,4.4,Não
+PED001104,2026-04-10,CLI0098,Games,Suporte headset,Sudeste,App,Cartão de débito,1,94.94,10,85.45,23.18,4.9,Não
+PED000170,2026-09-17,CLI0215,Acessórios,Capa notebook,Sul,App,Pix,4,100.64,5,382.43,0.0,4.5,Não
+PED001059,2026-09-29,CLI0233,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,2,267.34,5,507.95,0.0,3.3,Não
+PED000174,2026-05-05,CLI0283,Eletrônicos,Teclado mecânico,Sudeste,App,Boleto,1,245.15,0,245.15,28.65,3.1,Não
+PED000519,2026-09-01,CLI0311,Escritório,Hub USB,Sudeste,Site,Cartão de crédito,3,154.91,0,464.73,0.0,,Não
+PED000969,2026-07-25,CLI0178,Casa,Aspirador,Nordeste,Site,Cartão de crédito,3,413.95,0,1241.85,0.0,,Não
+PED000702,2026-03-17,CLI0055,Games,Controle,Nordeste,Site,Cartão de débito,1,271.62,5,258.04,23.77,4.9,Não
+PED000492,2026-09-27,CLI0269,Casa,Ventilador,Sudeste,Site,Pix,3,230.32,20,552.77,0.0,3.6,Não
+PED000074,2026-09-08,CLI0144,Acessórios,Cabo USB-C,Sudeste,Site,Cartão de crédito,4,53.45,0,213.8,29.83,5.0,Não
+PED000981,2026-01-23,CLI0115,Casa,Ventilador,Sudeste,App,Cartão de débito,1,237.25,10,213.53,35.7,3.3,Não
+PED000588,2026-03-10,CLI0094,Escritório,Mesa,Sul,Site,Cartão de crédito,1,846.08,10,761.47,0.0,,Não
+PED000235,2026-04-16,CLI0210,Casa,Liquidificador,Sul,Loja física,Boleto,2,178.97,0,357.94,0.0,4.6,Não
+PED000215,2026-01-12,CLI0073,Escritório,Cadeira,Nordeste,App,Cartão de débito,5,682.21,15,2899.39,0.0,3.2,Não
+PED000947,2026-06-24,CLI0170,Escritório,Mochila,Nordeste,Loja física,Boleto,3,243.37,15,620.59,0.0,4.2,Não
+PED000133,2026-03-12,CLI0301,Games,Microfone,Sudeste,Site,Boleto,1,331.2,0,331.2,20.59,4.4,Não
+PED001156,2026-01-15,CLI0051,Casa,Liquidificador,Sudeste,Site,Cartão de crédito,2,163.86,0,327.72,12.98,4.5,Não
+PED000733,2026-03-22,CLI0274,,Cadeira,Sul,Loja física,Boleto,2,685.79,0,1371.58,0.0,3.2,Não
+PED000941,2026-06-10,CLI0098,Escritório,Hub USB,Sudeste,Site,Cartão de crédito,1,161.29,0,161.29,32.7,,Não
+PED000186,2026-08-08,CLI0254,Acessórios,Carregador,Sudeste,App,Pix,2,121.49,5,230.83,20.94,3.1,Não
+PED000042,2026-03-03,CLI0022,Eletrônicos,Headset,Sudeste,Site,Pix,2,193.55,10,348.39,33.38,4.9,Não
+PED000109,2026-04-06,CLI0255,Acessórios,Power bank,Sudeste,App,Pix,1,187.03,5,177.68,37.87,3.6,Não
+PED000849,2026-05-08,CLI0301,Acessórios,Película,Sudeste,Site,Cartão de crédito,1,38.86,15,33.03,14.89,4.5,Não
+PED000569,2026-03-05,CLI0201,Casa,Luminária,Sudeste,App,Pix,1,98.71,0,98.71,30.57,,Não
+PED000651,2026-10-09,CLI0274,Acessórios,Película,Sul,App,Pix,1,41.62,5,39.54,32.19,,Não
+PED001001,2026-09-09,CLI0269,Escritório,Mesa,Sudeste,Site,Cartão de crédito,1,889.5,0,889.5,0.0,3.2,Não
+PED001166,2026-04-28,CLI0073,Eletrônicos,Mouse sem fio,Sudeste,Site,Pix,1,87.5,0,87.5,36.02,3.1,Sim
+PED000484,2026-08-12,CLI0252,Games,Microfone,Nordeste,Site,Cartão de débito,2,370.77,0,741.54,0.0,3.5,Não
+PED000469,2026-09-14,CLI0298,Eletrônicos,SSD 1TB,Norte,Loja física,Pix,3,435.81,0,1307.43,0.0,,Não
+PED000025,2026-01-13,CLI0171,Casa,Ventilador,Nordeste,Site,Cartão de crédito,2,227.82,0,455.64,0.0,3.8,Não
+PED000661,2026-09-15,CLI0077,Games,Controle,Sudeste,App,Cartão de crédito,3,272.15,0,816.45,0.0,3.2,Não
+PED000680,2026-06-12,CLI0293,Games,Suporte headset,Norte,Site,Boleto,1,92.5,10,83.25,32.83,3.3,Não
+PED000753,2026-02-10,CLI0115,Casa,Ventilador,Sul,Loja física,Cartão de crédito,2,241.77,0,483.54,0.0,,Não
+PED000994,2026-09-12,CLI0201,Escritório,Mesa,Sul,Site,Cartão de crédito,2,836.25,5,1588.88,0.0,4.9,Não
+PED000367,2026-04-30,CLI0100,Casa,Aspirador,Sudeste,Site,Cartão de crédito,1,427.74,10,384.97,0.0,,Não
+PED000840,2026-09-25,CLI0107,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de crédito,1,251.75,10,226.58,20.29,3.4,Não
+PED001053,2026-01-03,CLI0140,Casa,Ventilador,Sul,App,Cartão de débito,2,227.33,5,431.93,0.0,3.8,Não
+PED000384,2026-10-19,CLI0156,Escritório,Suporte notebook,Centro-Oeste,Loja física,Cartão de crédito,4,142.64,5,542.03,0.0,4.0,Não
+PED000455,2026-07-15,CLI0168,Eletrônicos,Teclado mecânico,Sudeste,App,Pix,1,262.48,10,236.23,32.61,4.3,Não
+PED000265,2026-09-15,CLI0166,Casa,Liquidificador,Nordeste,App,Cartão de crédito,2,195.83,10,352.49,0.0,4.8,Não
+PED000761,2026-06-24,CLI0266,Escritório,Hub USB,Centro-Oeste,App,Cartão de débito,1,144.59,0,144.59,16.64,4.6,Não
+PED000980,2026-05-31,CLI0021,Casa,Ventilador,Sudeste,Site,Pix,1,256.09,0,256.09,24.64,4.6,Não
+PED000445,2026-06-05,CLI0061,Escritório,Mesa,Sudeste,Loja física,Pix,1,832.47,0,832.47,0.0,4.4,Não
+PED000396,2026-07-19,CLI0075,Casa,Ventilador,Sul,Site,Pix,3,234.24,0,702.72,0.0,4.9,Não
+PED000742,2026-03-14,CLI0226,Eletrônicos,Headset,Nordeste,Site,Pix,2,181.26,0,362.52,0.0,4.7,Não
+PED000177,2026-10-30,CLI0069,Escritório,Mochila,Sudeste,Site,Pix,1,222.69,0,222.69,27.51,3.8,Não
+PED000019,2026-06-11,CLI0161,Games,Suporte headset,Sudeste,Site,Cartão de crédito,1,86.59,10,77.93,13.89,5.0,Sim
+PED000949,2026-08-19,CLI0099,Escritório,Cadeira,Nordeste,Site,Pix,3,638.17,0,1914.51,0.0,3.7,Não
+PED000815,2026-07-02,CLI0229,Casa,Luminária,Sudeste,App,Cartão de crédito,1,90.64,10,81.58,18.46,3.2,Não
+PED000596,2026-05-12,CLI0064,Escritório,Mesa,Nordeste,Loja física,Cartão de crédito,2,953.09,0,1906.18,0.0,4.2,Não
+PED000062,2026-07-15,CLI0078,Escritório,Hub USB,Sul,Site,Cartão de crédito,2,160.98,15,273.67,23.45,3.9,Não
+PED000273,2026-01-21,CLI0165,Games,Mousepad,Sudeste,App,Pix,1,83.48,0,83.48,25.44,,Não
+PED001126,2026-01-20,CLI0018,Casa,Liquidificador,Norte,App,Pix,3,177.49,10,479.22,0.0,3.5,Sim
+PED000279,2026-07-31,CLI0263,Escritório,Mesa,Sudeste,Site,Cartão de crédito,1,830.54,10,747.49,0.0,3.1,Não
+PED000842,2026-08-22,CLI0209,Casa,Aspirador,Sul,App,Pix,2,401.04,20,641.66,0.0,4.7,Não
+PED000369,2026-10-19,CLI0090,Escritório,Hub USB,Sudeste,App,Boleto,1,149.14,0,149.14,15.53,3.9,Não
+PED000887,2026-05-16,CLI0249,Acessórios,Carregador,Sudeste,App,Cartão de débito,2,130.91,0,261.82,14.9,4.8,Não
+PED001015,2026-08-24,CLI0168,Acessórios,Power bank,Sudeste,Site,Cartão de crédito,1,187.56,5,178.18,31.85,4.6,Não
+PED000860,2026-07-03,CLI0213,Acessórios,Capa notebook,Sudeste,Loja física,Cartão de débito,1,95.01,0,95.01,23.88,4.6,Não
+PED000721,2026-02-28,CLI0079,Games,Mousepad,Sul,Site,Pix,1,79.48,10,71.53,23.54,3.2,Não
+PED000826,2026-03-30,CLI0051,Escritório,Hub USB,Sudeste,App,Boleto,1,153.99,5,146.29,15.6,5.0,Não
+PED000548,2026-07-14,CLI0057,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,1,243.52,0,243.52,25.7,,Não
+PED000880,2026-05-04,CLI0254,Games,Microfone,Nordeste,Loja física,Cartão de crédito,2,375.45,0,750.9,0.0,,Não
+PED000900,2026-02-01,CLI0192,Eletrônicos,SSD 1TB,Sudeste,Site,Boleto,1,443.97,0,443.97,0.0,,Não
+PED000457,2026-03-26,CLI0069,Games,Microfone,Sudeste,Site,Cartão de crédito,2,349.24,5,663.56,0.0,3.9,Não
+PED000394,2026-04-03,CLI0017,Casa,Ventilador,Sudeste,Site,Pix,4,223.31,5,848.58,0.0,,Não
+PED000676,2026-08-12,CLI0224,Casa,Aspirador,Sul,App,Boleto,4,367.85,0,1471.4,0.0,,Não
+PED000912,2026-02-06,CLI0060,Casa,Liquidificador,,App,Pix,2,167.93,10,302.27,36.84,4.4,Não
+PED000965,2026-09-01,CLI0058,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de débito,2,90.93,0,181.86,30.27,4.5,Não
+PED000376,2026-05-19,CLI0146,Games,Microfone,Sul,Site,Pix,4,352.74,0,1410.96,0.0,4.8,Não
+PED000413,2026-02-15,CLI0155,Acessórios,Capa notebook,Sudeste,Site,Pix,1,100.5,0,100.5,21.41,,Não
+PED000075,2026-04-08,CLI0233,Acessórios,Power bank,Sudeste,Site,Cartão de crédito,5,172.83,0,864.15,0.0,,Não
+PED001122,2026-10-21,CLI0012,Escritório,Mesa,Sul,App,Cartão de crédito,2,882.4,15,1500.08,0.0,4.0,Não
+PED000863,2026-03-22,CLI0090,Games,Joystick,Centro-Oeste,Loja física,Cartão de crédito,3,402.53,15,1026.45,0.0,3.3,Não
+PED000501,2026-04-09,CLI0225,Casa,Luminária,Sudeste,Site,Boleto,1,101.94,10,91.75,29.08,3.6,Não
+PED000942,2026-03-20,CLI0198,Acessórios,Película,Sudeste,Site,Pix,1,43.81,5,41.62,22.38,4.6,Não
+PED000617,2026-07-09,CLI0128,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,1,679.46,5,645.49,0.0,4.9,Não
+PED000115,2026-09-10,CLI0284,Casa,Liquidificador,Sul,Site,Boleto,1,193.73,0,193.73,22.35,4.0,Não
+PED000418,2026-01-17,CLI0031,Escritório,Mesa,Sudeste,Site,Cartão de crédito,1,946.76,0,946.76,0.0,3.3,Não
+PED000602,2026-10-08,CLI0217,Casa,Cafeteira,Nordeste,Loja física,Cartão de crédito,1,221.12,0,221.12,30.11,4.7,Não
+PED000605,2026-10-31,CLI0207,Games,Microfone,Sudeste,Site,Pix,1,356.63,0,356.63,0.0,,Não
+PED000090,2026-03-28,CLI0059,Casa,Luminária,sul,Site,Cartão de crédito,1,109.06,5,103.61,15.84,3.5,Não
+PED001149,2026-06-14,CLI0186,Acessórios,Película,Sul,Site,Pix,1,40.47,0,40.47,15.7,4.6,Não
+PED000499,2026-10-24,CLI0284,Acessórios,Película,Norte,Site,Pix,2,41.69,15,70.87,35.53,,Não
+PED000876,2026-07-30,CLI0247,Eletrônicos,Mouse sem fio,Nordeste,App,Cartão de débito,4,85.27,10,306.97,28.8,3.4,Não
+PED000927,2026-10-10,CLI0144,Casa,Aspirador,Nordeste,Loja física,Boleto,2,371.64,5,706.12,0.0,,Não
+PED000999,2026-09-06,CLI0127,Games,Microfone,Centro-Oeste,Site,Cartão de crédito,1,327.05,0,327.05,14.79,3.6,Não
+PED000012,2026-08-05,CLI0277,Escritório,Mochila,Nordeste,App,Cartão de crédito,1,248.14,0,248.14,35.39,3.5,Não
+PED000397,2026-08-10,CLI0140,Games,Microfone,Sudeste,Site,Pix,2,342.28,10,616.1,0.0,,Não
+PED000755,2026-08-16,CLI0210,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,4,257.56,5,978.73,0.0,3.8,Não
+PED000556,2026-01-05,CLI0145,Games,Microfone,Nordeste,App,Pix,1,355.5,5,337.72,24.27,4.5,Não
+PED000043,2026-08-11,CLI0268,Acessórios,Carregador,Norte,Site,Cartão de débito,2,119.5,5,227.05,31.01,4.7,Não
+PED000168,2026-07-06,CLI0289,Escritório,Hub USB,Sudeste,Loja física,Pix,3,135.72,10,366.44,0.0,,Não
+PED000417,2026-02-07,CLI0249,Acessórios,Carregador,Sudeste,Site,Pix,2,112.18,0,224.36,23.9,3.7,Não
+PED000577,2026-09-24,CLI0148,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,1,658.72,0,658.72,0.0,,Sim
+PED000268,2026-07-15,CLI0161,Escritório,Cadeira,Norte,Site,Cartão de crédito,1,751.53,15,638.8,0.0,3.5,Não
+PED000808,data_invalida,CLI0238,Acessórios,Carregador,Nordeste,App,Pix,1,126.21,0,126.21,32.1,,Não
+PED000427,2026-08-23,CLI0201,Eletrônicos,Teclado mecânico,Centro-Oeste,Site,Boleto,1,238.7,10,214.83,24.9,,Não
+PED000691,2026-07-10,CLI0161,Eletrônicos,Teclado mecânico,Sudeste,Site,Pix,1,248.17,10,223.35,35.37,3.8,Não
+PED000545,2026-08-03,CLI0054,Games,Microfone,Sul,App,Pix,1,315.17,0,315.17,17.99,3.5,Não
+PED001123,2026-07-27,CLI0076,Acessórios,Carregador,Centro-Oeste,Site,Cartão de crédito,1,111.35,5,105.78,16.44,3.7,Não
+PED000675,2026-03-05,CLI0234,Escritório,Mochila,Sudeste,Site,Cartão de débito,1,262.65,0,262.65,36.09,3.7,Não
+PED000690,2026-10-28,CLI0310,Games,Microfone,Nordeste,App,Boleto,1,317.01,0,317.01,20.39,,Não
+PED001055,2026-03-07,CLI0298,Casa,Luminária,Sudeste,App,Pix,1,109.85,10,98.86,31.01,3.3,Não
+PED001177,2026-01-13,CLI0060,Escritório,Mochila,Sudeste,App,Cartão de crédito,1,228.02,0,228.02,29.03,4.1,Sim
+PED001033,2026-01-20,CLI0185,Casa,Ventilador,Nordeste,App,Pix,1,239.07,10,215.16,25.03,3.7,Não
+PED001035,2026-05-26,CLI0209,Acessórios,Cabo USB-C,Sul,Loja física,Pix,3,49.07,5,139.85,34.99,4.8,Não
+PED000258,2026-06-11,CLI0010,Acessórios,Película,Sudeste,Site,Cartão de crédito,1,36.64,5,34.81,28.1,4.0,Não
+PED000336,2026-03-22,CLI0227,Games,Microfone,Centro-Oeste,Loja física,Cartão de crédito,5,374.03,0,1870.15,0.0,4.7,Não
+PED000016,2026-01-08,CLI0122,Eletrônicos,SSD 1TB,Sudeste,App,Pix,1,419.3,0,419.3,0.0,,Não
+PED000902,2026-03-18,CLI0228,Casa,Aspirador,Sudeste,Site,Cartão de crédito,4,435.15,10,1566.54,0.0,3.6,Não
+PED000325,2026-05-08,CLI0227,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Pix,2,82.6,5,156.94,17.42,4.9,Não
+PED000608,2026-07-21,CLI0275,Acessórios,Cabo USB-C,Nordeste,App,Pix,3,50.29,10,135.78,28.94,,Não
+PED001054,2026-03-11,CLI0211,Escritório,Suporte notebook,Centro-Oeste,Site,Pix,3,120.15,5,342.43,28.86,5.0,Não
+PED000791,2026-08-27,CLI0178,Eletrônicos,Headset,Nordeste,Site,Cartão de crédito,5,217.47,0,1087.35,0.0,4.5,Não
+PED000223,2026-03-20,CLI0002,Games,Joystick,Sudeste,Site,Cartão de crédito,2,404.08,0,808.16,0.0,3.6,Não
+PED000180,2026-09-11,CLI0058,Acessórios,Capa notebook,Sul,Site,Cartão de crédito,5,100.74,10,453.33,0.0,,Não
+PED000100,2026-10-20,CLI0145,Casa,Luminária,Nordeste,App,Pix,1,93.9,5,89.2,34.7,4.0,Não
+PED000522,2026-01-10,CLI0106,Games,Mousepad, Sudeste ,App,Cartão de débito,1,84.8,5,80.56,22.45,4.7,Não
+PED000023,2026-01-05,CLI0077,Acessórios,Capa notebook,Sul,App,Cartão de crédito,1,92.46,0,92.46,35.37,,Não
+PED000357,2026-09-23,CLI0021,Eletrônicos,Teclado mecânico,Sul,App,Cartão de crédito,1,239.46,0,239.46,19.92,,Não
+PED000734,2026-01-17,CLI0134,Escritório,Cadeira,Sudeste,Loja física,Pix,1,744.24,0,744.24,0.0,,Não
+PED001094,2026-02-25,CLI0116,Games,Microfone,Sudeste,App,Pix,1,324.66,20,259.73,17.06,,Não
+PED001112,2026-02-07,CLI0165,Eletrônicos,Headset,Sudeste,Site,Pix,2,187.74,5,356.71,0.0,3.8,Não
+PED000612,2026-02-08,CLI0134,Games,Joystick,Sudeste,Loja física,Pix,1,408.76,5,388.32,0.0,4.1,Não
+PED001010,2026-08-27,CLI0182,Acessórios,Capa notebook,Nordeste,App,Cartão de débito,1,94.93,15,80.69,16.34,,Não
+PED000341,2026-01-06,CLI0196,Casa,Aspirador,Sudeste,App,Pix,2,386.05,10,694.89,0.0,4.3,Sim
+PED000432,2026-03-04,CLI0256,Games,Microfone,Nordeste,Loja física,Boleto,1,382.8,5,363.66,0.0,4.3,Não
+PED000962,2026-08-23,CLI0085,Acessórios,Power bank,Centro-Oeste,App,Cartão de crédito,3,196.24,15,500.41,0.0,3.2,Não
+PED000218,2026-02-23,CLI0170,Casa,Aspirador,Nordeste,Site,Boleto,1,430.72,0,430.72,0.0,4.3,Não
+PED000204,2026-02-13,CLI0259,Escritório,Hub USB,Sudeste,App,Pix,2,147.95,20,236.72,18.16,3.6,Não
+PED000906,2026-07-26,CLI0043,Escritório,Hub USB,Sul,App,Pix,2,146.57,5,278.48,32.45,4.4,Não
+PED000923,2026-04-13,CLI0283,Acessórios,Cabo USB-C,Centro-Oeste,App,Boleto,1,54.32,0,54.32,17.37,3.3,Sim
+PED000094,2026-02-22,CLI0176,Eletrônicos,Webcam,Norte,Site,Cartão de crédito,1,291.52,20,233.22,25.63,3.7,Não
+PED000911,2026-01-06,CLI0212,Escritório,Hub USB,Sudeste,App,Pix,3,142.51,0,427.53,0.0,3.1,Não
+PED000069,2026-01-21,CLI0226,Casa,Cafeteira,Sudeste,Site,Pix,4,212.28,0,849.12,0.0,4.6,Não
+PED000895,2026-07-01,CLI0142,Casa,Cafeteira,Sul,Loja física,Cartão de crédito,2,219.5,10,395.1,0.0,,Sim
+PED000285,2026-09-15,CLI0123,Acessórios,Power bank,Centro-Oeste,App,Cartão de crédito,1,190.44,5,180.92,16.66,,Não
+PED000697,2026-01-27,CLI0023,Games,Controle,Sudeste,Loja física,Pix,1,306.66,10,275.99,19.02,3.3,Não
+PED000086,2026-08-15,CLI0249,Eletrônicos,Headset,Sul,Site,Pix,2,193.71,0,193.71,0.0,4.2,Não
+PED000435,2026-09-09,CLI0310,Acessórios,Carregador,Sul,Site,Cartão de crédito,1,125.08,5,118.83,22.04,3.7,Não
+PED000797,2026-10-15,CLI0175,Escritório,Suporte notebook,Sul,App,Pix,4,119.2,15,405.28,0.0,3.2,Não
+PED000154,2026-09-08,CLI0252,Escritório,Suporte notebook,Sul,App,Pix,1,131.11,0,131.11,35.12,,Sim
+PED000076,2026-10-11,CLI0111,Casa,Cafeteira,Nordeste,Site,Cartão de crédito,3,224.12,0,672.36,0.0,,Sim
+PED001043,2026-09-25,CLI0274,Escritório,Mesa,Sudeste,Loja física,Cartão de crédito,1,871.14,0,871.14,0.0,,Não
+PED000581,2026-11-01,CLI0284,Eletrônicos,Headset,Nordeste,Site,Cartão de crédito,1,194.91,5,185.16,13.87,3.9,Não
+PED000447,2026-04-16,CLI0103,Eletrônicos,SSD 1TB,Sudeste,Site,Pix,3,500.54,15,1276.38,0.0,3.3,Não
+PED000704,2026-09-10,CLI0056,Games,Suporte headset,Nordeste,App,Boleto,1,81.87,0,81.87,18.92,3.2,Não
+PED000189,2026-09-23,CLI0005,Games,Mousepad,Sudeste,Site,Pix,3,83.0,5,236.55,17.95,4.6,Não
+PED000272,2026-06-19,CLI0112,Casa,Luminária,Norte,App,Cartão de crédito,2,104.94,5,199.39,14.98,3.5,Não
+PED000237,2026-11-01,CLI0153,Escritório,Mochila,Nordeste,App,Pix,1,231.51,0,231.51,29.06,,Não
+PED000488,2026-05-18,CLI0003,Acessórios,Película,Sudeste,Site,Cartão de crédito,1,43.47,20,34.78,35.58,,Não
+PED001160,2026-01-30,CLI0101,Games,Mousepad,Centro-Oeste,App,Boleto,1,82.88,5,78.74,27.83,3.8,Não
+PED000560,2026-07-15,CLI0033,Games,Joystick,Sul,Site,Pix,2,425.73,15,723.74,0.0,3.2,Não
+PED000118,2026-06-05,CLI0048,Escritório,Mesa,Sul,Site,Boleto,1,928.47,10,835.62,0.0,4.7,Não
+PED000638,2026-03-02,CLI0024,Escritório,Mochila,Sul,Site,Cartão de crédito,4,229.24,0,916.96,0.0,,Não
+PED001128,2026-07-02,CLI0279,Acessórios,Cabo USB-C,Sudeste,Site,Pix,3,51.46,0,154.38,28.01,4.6,Sim
+PED000751,2026-01-13,CLI0185,Escritório,Mesa,Sudeste,Site,Cartão de crédito,1,985.12,5,935.86,0.0,3.1,Não
+PED000513,2026-07-01,CLI0064,Escritório,Mochila,Sul,App,Pix,1,227.24,10,204.52,27.12,4.9,Não
+PED000634,2026-06-25,CLI0243,Games,Suporte headset,Norte,Site,Cartão de crédito,1,84.36,5,80.14,18.57,,Não
+PED000786,2026-05-26,CLI0219,Casa,Luminária,Sul,Site,Cartão de crédito,1,95.0,5,90.25,29.14,3.3,Não
+PED001007,2026-03-05,CLI0284,Casa,Aspirador,Nordeste,App,Pix,4,379.56,0,1518.24,0.0,,Não
+PED000853,2026-09-09,CLI0171,Escritório,Mochila,Sul,App,Cartão de crédito,5,-253.36,5,1203.46,0.0,,Não
+PED000127,2026-06-19,CLI0214,Eletrônicos,Headset,Sul,App,Cartão de crédito,2,180.98,5,343.86,37.14,,Não
+PED000117,2026-09-23,CLI0085,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Pix,4,90.24,0,360.96,0.0,3.4,Sim
+PED000474,2026-08-30,CLI0171,Eletrônicos,Webcam,Nordeste,Loja física,Cartão de débito,3,291.01,5,829.38,0.0,4.2,Não
+PED000741,2026-10-05,CLI0028,Escritório,Suporte notebook,Sudeste,Site,Boleto,2,118.95,15,202.22,33.88,3.6,Não
+PED000993,2026-07-05,CLI0284,Escritório,Mesa,Sudeste,App,Cartão de crédito,1,940.32,15,799.27,0.0,3.4,Não
+PED000058,2026-01-15,CLI0123,Acessórios,Cabo USB-C,Nordeste,Site,Pix,1,47.15,10,42.44,14.95,,Não
+PED000604,2026-10-22,CLI0076,Eletrônicos,Headset,Sudeste,Loja física,Cartão de crédito,1,182.16,0,182.16,24.32,,Não
+PED000787,2026-05-15,CLI0065,Escritório,Mesa,Nordeste,App,Cartão de crédito,1,948.85,5,901.41,0.0,4.6,Não
+PED000971,2026-03-23,CLI0294,Escritório,Mochila,Sudeste,App,Pix,2,219.83,0,439.66,0.0,4.0,Não
+PED000657,2026-07-13,CLI0109,Eletrônicos,SSD 1TB,Sudeste,Site,Pix,3,503.68,5,1435.49,0.0,4.4,Não
+PED000903,2026-09-23,CLI0052,Casa,Aspirador,Sul,App,Boleto,4,434.92,15,1478.73,0.0,3.8,Não
+PED000922,2026-08-26,CLI0210,Games,Microfone,Sudeste,Site,Pix,1,352.9,5,335.25,35.52,,Não
+PED000106,2026-05-10,CLI0183,Acessórios,Power bank,Nordeste,Site,Cartão de crédito,2,200.21,10,360.38,0.0,3.1,Não
+PED000636,2026-02-01,CLI0098,Eletrônicos,SSD 1TB,Nordeste,Site,Cartão de crédito,3,503.27,0,1509.81,0.0,,Não
+PED000370,2026-07-31,CLI0267,Escritório,Hub USB,Sudeste,App,Pix,2,141.15,10,254.07,32.79,,Não
+PED000269,2026-10-07,CLI0101,Escritório,Mochila,Nordeste,Loja física,Pix,1,248.66,0,248.66,16.52,3.8,Não
+PED000656,2026-03-24,CLI0217,Casa,Aspirador,Nordeste,Loja física,Cartão de crédito,3,433.42,5,1235.25,0.0,3.8,Não
+PED000047,2026-03-03,CLI0095,Casa,Luminária,Sudeste,App,Pix,2,105.1,5,199.69,37.49,,Não
+PED000350,2026-05-12,CLI0016,Escritório,Cadeira,Norte,Loja física,Pix,1,684.9,0,684.9,0.0,,Não
+PED000774,2026-07-31,CLI0128,Escritório,Suporte notebook,Norte,Site,Pix,4,119.57,0,478.28,0.0,3.3,Não
+PED000196,2026-01-30,CLI0223,Acessórios,Carregador,Sudeste,App,Pix,2,123.69,0,247.38,12.33,3.0,Não
+PED000103,2026-03-13,CLI0241,Escritório,Hub USB,Sul,Site,Pix,1,159.94,5,151.94,30.91,3.2,Não
+PED000005,2026-05-17,CLI0037,Escritório,Mesa,Sul,Site,Cartão de crédito,1,878.2,20,702.56,0.0,4.1,Não
+PED000620,2026-06-26,CLI0271,Acessórios,Capa notebook,Nordeste,Site,Cartão de crédito,1,108.5,10,97.65,35.5,3.7,Não
+PED000991,2026-06-22,CLI0251,Casa,Ventilador,Norte,App,Cartão de crédito,1,246.1,15,209.19,34.74,3.5,Não
+PED000053,2026-10-06,CLI0077,Acessórios,Cabo USB-C,Centro-Oeste,App,Pix,1,47.98,10,43.18,26.8,3.2,Não
+PED000264,2026-03-12,CLI0263,Acessórios,Carregador,Sudeste,App,Cartão de débito,2,130.34,5,247.65,17.22,3.6,Não
+PED001093,2026-08-01,CLI0318,Games,Controle,Nordeste,Site,Cartão de crédito,1,323.05,0,323.05,27.7,,Não
+PED000444,2026-02-28,CLI0040,Games,Suporte headset,Sudeste,Site,Pix,1,93.34,0,93.34,23.49,,Não
+PED000972,2026-01-03,CLI0282,Eletrônicos,SSD 1TB,Nordeste,Site,Pix,2,444.71,0,889.42,0.0,,Não
+PED000783,2026-03-02,CLI0139,Eletrônicos,Headset,Sul,App,Pix,2,185.57,5,352.58,0.0,4.2,Não
+PED000847,2026-07-29,CLI0072,Acessórios,Cabo USB-C,Norte,App,Pix,2,46.99,10,84.58,19.66,3.6,Não
+PED000692,2026-02-22,CLI0312,Games,Mousepad,Norte,App,Cartão de crédito,2,82.24,10,148.03,23.32,,Não
+PED000305,2026-05-28,CLI0176,Escritório,Mesa,Sudeste,Loja física,Cartão de crédito,1,970.87,0,970.87,0.0,,Não
+PED000342,2026-10-22,CLI0114,Acessórios,Capa notebook,Sudeste,App,Pix,1,99.42,10,89.48,26.25,3.8,Não
+PED000867,2026-04-23,CLI0074,Casa,Liquidificador,Sudeste,Site,Pix,1,193.82,0,193.82,17.88,4.3,Não
+PED000314,2026-09-19,CLI0229,Escritório,Suporte notebook,Centro-Oeste,Site,Pix,2,120.67,0,241.34,33.0,4.3,Não
+PED000150,2026-04-08,CLI0194,Eletrônicos,SSD 1TB,Nordeste,App,Cartão de débito,1,483.97,10,435.57,0.0,4.0,Não
+PED000125,2026-07-11,CLI0286,Eletrônicos,Webcam,Centro-Oeste,App,Pix,2,279.9,0,559.8,0.0,3.7,Não
+PED001063,2026-10-28,CLI0206,Escritório,Suporte notebook,Nordeste,Loja física,Cartão de crédito,1,126.78,5,120.44,35.15,4.7,Não
+PED000575,2026-10-27,CLI0262,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,5,662.47,5,3146.73,0.0,,Não
+PED000698,2026-03-17,CLI0212,Casa,Luminária,Sul,App,Cartão de crédito,1,99.46,5,94.49,19.29,,Não
+PED000665,2026-03-05,CLI0021,Acessórios,Carregador,Sudeste,Site,Pix,2,124.23,5,236.04,25.32,3.6,Não
+PED000051,2026-10-19,CLI0313,Acessórios,Power bank,Norte,Site,Cartão de crédito,2,180.96,0,361.92,0.0,4.1,Não
+PED000727,2026-07-26,CLI0016,Escritório,Mochila,Centro-Oeste,Site,Pix,1,260.73,5,247.69,31.76,,Não
+PED000800,2026-02-17,CLI0297,Acessórios,Power bank,Sudeste,App,Cartão de crédito,3,197.0,0,591.0,0.0,,Não
+PED000354,2026-02-10,CLI0245,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,2,187.27,0,374.54,0.0,3.3,Não
+PED001153,2026-05-17,CLI0251,Games,Microfone,Nordeste,Site,Cartão de crédito,2,326.22,0,652.44,0.0,3.0,Não
+PED000143,2026-10-24,CLI0217,Eletrônicos,Teclado mecânico,Sudeste,Site,Boleto,4,228.36,15,776.42,0.0,3.8,Não
+PED000471,2026-09-01,CLI0143,Games,Joystick,Centro-Oeste,Loja física,Pix,2,457.53,0,915.06,0.0,,Não
+PED000654,2026-02-07,CLI0305,Eletrônicos,SSD 1TB,Centro-Oeste,Site,Pix,1,421.0,5,399.95,0.0,,Não
+PED000400,2026-04-05,CLI0240,Casa,Cafeteira,Nordeste,Site,Cartão de crédito,5,231.75,10,1042.88,0.0,4.5,Não
+PED001154,2026-09-13,CLI0060,Escritório,Mochila,Sudeste,Site,Cartão de débito,3,236.96,0,710.88,0.0,3.1,Não
+PED000938,2026-04-06,CLI0117,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de crédito,2,250.23,0,500.46,0.0,4.6,Não
+PED000321,2026-10-08,CLI0211,Casa,Cafeteira,Centro-Oeste,Site,Pix,2,226.32,10,407.38,0.0,3.2,Não
+PED000020,2026-04-20,CLI0068,Eletrônicos,SSD 1TB,Centro-Oeste,Loja física,Cartão de débito,1,428.42,10,385.58,0.0,4.2,Sim
+PED000685,2026-01-12,CLI0250,Eletrônicos,Webcam,Norte,Site,Cartão de crédito,1,269.46,15,229.04,33.02,3.0,Não
+PED000036,2026-02-01,CLI0216,Acessórios,Película,Sudeste,App,Boleto,1,42.94,5,40.79,24.4,,Não
+PED000825,2026-10-02,CLI0116,Escritório,Mochila,Centro-Oeste,App,Cartão de crédito,3,237.47,15,605.55,0.0,3.6,Não
+PED000506,2026-09-17,CLI0061,Games,Controle,Centro-Oeste,Loja física,Pix,1,296.39,5,281.57,31.05,4.3,Não
+PED000828,2026-07-08,CLI0123,Casa,Ventilador,Sudeste,Loja física,Boleto,1,229.97,15,195.47,17.38,3.5,Não
+PED001071,2026-09-29,CLI0300,Games,Suporte headset,Norte,Loja física,Pix,5,90.49,5,429.83,0.0,,Não
+PED000408,2026-02-06,CLI0073,Games,Mousepad,Sul,Site,Boleto,2,75.79,5,144.0,12.37,4.8,Não
+PED000818,2026-04-09,CLI0156,Acessórios,Cabo USB-C,Sul,App,Cartão de débito,2,45.4,5,86.26,17.6,,Não
+PED000538,2026-08-31,CLI0028,Casa,Cafeteira,Nordeste,App,Pix,1,224.3,5,213.09,14.49,3.2,Sim
+PED000759,2026-02-25,CLI0038,Games,Suporte headset,Nordeste,Site,Cartão de crédito,1,89.0,10,80.1,19.52,3.3,Não
+PED001069,2026-03-10,CLI0105,Acessórios,Carregador,Sudeste,App,Cartão de crédito,3,118.27,10,319.33,33.67,3.8,Não
+PED000893,2026-03-07,CLI0260,Games,Suporte headset,Nordeste,App,Pix,3,85.01,0,255.03,30.26,,Não
+PED000039,2026-08-04,CLI0042,Acessórios,Power bank,Sul,App,Pix,4,179.43,0,717.72,0.0,,Não
+PED000176,2026-08-23,CLI0251,Escritório,Mesa,Sul,App,Cartão de crédito,2,915.56,0,1831.12,0.0,,Não
+PED000246,2026-09-26,CLI0069,Games,Suporte headset,Sudeste,Loja física,Pix,1,97.96,15,83.27,22.49,4.5,Não
+PED000811,2026-03-25,CLI0265,Acessórios,Carregador,Nordeste,Site,Pix,2,110.34,15,187.58,32.89,3.6,Não
+PED001085,2026-06-08,CLI0043,Casa,Cafeteira,Sul,Site,Pix,4,225.69,0,902.76,0.0,,Não
+PED001078,2026-05-29,CLI0134,Eletrônicos,SSD 1TB,Sudeste,App,Pix,2,463.58,0,927.16,0.0,4.5,Não
+PED000785,2026-06-09,CLI0103,Eletrônicos,Mouse sem fio,Nordeste,App,Pix,1,89.34,0,89.34,21.11,3.5,Não
+PED001185,2026-05-14,CLI0071,Games,Joystick,Sudeste,Site,Boleto,3,431.79,10,1165.83,0.0,5.0,Sim
+PED000490,2026-03-20,CLI0252,Acessórios,Power bank,Nordeste,App,Boleto,4,193.83,0,775.32,0.0,3.7,Não
+PED000155,2026-02-08,CLI0025,Games,Controle,Nordeste,Site,Cartão de débito,1,312.33,0,312.33,25.15,4.2,Não
+PED000639,2026-10-01,CLI0178,Casa,Liquidificador,Sul,Loja física,Pix,4,193.72,0,774.88,0.0,4.8,Não
+PED000663,2026-07-18,CLI0313,Acessórios,Cabo USB-C,Sul,Loja física,Cartão de crédito,5,45.88,0,229.4,31.92,4.7,Não
+PED000854,2026-08-28,CLI0098,Eletrônicos,SSD 1TB,Nordeste,App,Cartão de crédito,1,455.42,15,387.11,0.0,,Não
+PED000288,2026-09-22,CLI0177,Acessórios,Carregador,Sul,App,Cartão de crédito,2,111.24,0,222.48,14.0,3.4,Não
+PED000626,2026-08-04,CLI0254,Escritório,Cadeira,Nordeste,App,Pix,3,753.34,5,2147.02,0.0,,Não
+PED000059,2026-05-30,CLI0140,Casa,Ventilador,Sudeste,App,Cartão de crédito,1,222.85,0,222.85,27.58,,Não
+PED000686,2026-01-17,CLI0178,Games,Suporte headset,Sul,App,Cartão de crédito,1,94.25,15,80.11,17.01,3.0,Não
+PED000873,2026-04-24,CLI0102,Casa,Liquidificador,Nordeste,Site,Cartão de crédito,1,192.85,5,183.21,32.81,3.5,Sim
+PED000570,2026-09-25,CLI0053,Acessórios,Cabo USB-C,Sudeste,Site,Pix,1,52.62,10,47.36,36.15,3.5,Não
+PED001144,2026-06-12,CLI0003,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,2,196.93,10,354.47,0.0,3.6,Não
+PED000735,2026-09-10,CLI0289,Eletrônicos,Teclado mecânico,Centro-Oeste,App,Cartão de crédito,1,273.94,15,232.85,27.55,3.2,Não
+PED000793,2026-01-30,CLI0016,Escritório,Suporte notebook,Centro-Oeste,Loja física,Boleto,2,129.65,5,246.34,34.75,,Não
+PED000018,2026-01-30,CLI0096,Games,Mousepad,Sudeste,Site,Cartão de débito,1,86.96,5,82.61,27.05,3.2,Não
+PED000128,2026-01-27,CLI0088,Games,Mousepad,Sul,App,Cartão de crédito,1,85.04,0,85.04,26.89,3.4,Não
+PED000323,2026-01-26,CLI0096,Eletrônicos,Teclado mecânico,Norte,Site,Pix,1,225.32,0,225.32,12.38,3.8,Não
+PED000256,2026-06-27,CLI0198,Casa,Ventilador,Sudeste,App,Cartão de débito,2,216.47,15,368.0,0.0,3.9,Não
+PED000944,2026-09-13,CLI0082,Casa,Ventilador,Sul,App,Pix,1,261.63,10,235.47,27.8,4.0,Não
+PED001180,2026-02-22,CLI0196,Games,Microfone,,Site,Cartão de crédito,4,348.85,5,1325.63,0.0,4.7,Não
+PED000191,2026-04-22,CLI0052,Games,Joystick,Sudeste,Site,Cartão de crédito,1,423.83,10,381.45,0.0,4.3,Não
+PED000116,2026-02-07,CLI0038,Acessórios,Capa notebook,Sul,App,Pix,3,105.5,5,300.68,16.73,,Não
+PED001174,2026-04-13,CLI0090,Acessórios,Power bank,Sudeste,Site,Pix,1,184.16,15,78.27,29.59,4.4,Não
+PED000889,2026-07-01,CLI0198,Escritório,Mochila,Sudeste,Loja física,Cartão de débito,3,230.01,5,655.53,0.0,5.0,Não
+PED000607,2026-10-31,CLI0248,Escritório,Cadeira,Norte,App,Pix,1,675.44,10,607.9,0.0,,Não
+PED000181,2026-02-22,CLI0127,Casa,Ventilador,Sudeste,Loja física,Cartão de crédito,1,255.1,5,242.34,37.84,,Não
+PED000302,2026-06-27,CLI0116,Games,Microfone,Sul,Site,Boleto,2,333.18,0,666.36,0.0,3.1,Não
+PED000497,2026-04-18,CLI0075,Casa,Cafeteira,Nordeste,Site,Cartão de crédito,3,206.31,0,618.93,0.0,3.9,Não
+PED000349,2026-01-12,CLI0272,Acessórios,Capa notebook,Sudeste,App,Cartão de crédito,1,103.58,0,103.58,19.86,,Sim
+PED001036,2026-05-16,CLI0020,Casa,Ventilador,Nordeste,App,Cartão de crédito,1,216.12,0,216.12,17.77,,Não
+PED000983,2026-02-14,CLI0184,Eletrônicos,Mouse sem fio,Sul,App,Pix,4,83.38,0,333.52,14.25,3.4,Não
+PED000745,2026-07-18,CLI0148,Eletrônicos,SSD 1TB,Centro-Oeste,Loja física,Cartão de crédito,2,466.18,5,885.74,0.0,3.8,Não
+PED001152,2026-10-27,CLI0156,Acessórios,Power bank,Sudeste,App,Pix,1,195.72,10,176.15,18.36,4.8,Não
+PED000518,2026-10-29,CLI0157,Casa,Liquidificador,Centro-Oeste,Site,Cartão de débito,2,166.31,0,332.62,34.63,4.1,Não
+PED000373,2026-09-05,CLI0269,Casa,Luminária,Sudeste,Site,Cartão de crédito,1,109.54,5,104.06,37.81,3.1,Não
+PED000046,2026-05-05,CLI0298,Casa,Ventilador,,App,Pix,5,242.32,0,1211.6,0.0,3.6,Não
+PED000477,2026-04-25,CLI0286,,Capa notebook,Nordeste,App,Boleto,5,93.87,10,422.42,0.0,3.8,Não
+PED000158,2026-02-17,CLI0194,Eletrônicos,Mouse sem fio,Sul,Site,Pix,1,89.9,5,85.41,32.39,4.7,Não
+PED001047,2026-06-09,CLI0218,Escritório,Mesa,sudeste,Loja física,Pix,1,983.42,0,983.42,0.0,3.8,Não
+PED000172,2026-08-17,CLI0238,Games,Mousepad,Nordeste,App,Cartão de crédito,1,72.3,0,72.3,22.82,,Não
+PED000017,2026-08-05,CLI0285,Acessórios,Power bank,Nordeste,App,Pix,1,173.13,10,155.82,13.58,3.1,Não
+PED000512,2026-06-09,CLI0082,Games,Suporte headset,Sudeste,Loja física,Cartão de crédito,1,95.87,0,95.87,22.99,4.5,Não
+PED000049,2026-05-26,CLI0226,Eletrônicos,SSD 1TB,Sudeste,Loja física,Pix,3,424.4,0,1273.2,0.0,4.2,Não
+PED000192,2026-05-26,CLI0014,Games,Suporte headset,Centro-Oeste,App,Pix,2,90.07,10,162.13,19.68,4.8,Sim
+PED000547,2026-04-12,CLI0113,Eletrônicos,Teclado mecânico,Centro-Oeste,App,Pix,2,233.83,0,467.66,0.0,,Não
+PED000516,2026-08-02,CLI0074,Acessórios,Película,Sul,App,Cartão de crédito,5,40.01,5,190.05,30.06,3.1,Não
+PED000978,2026-07-14,CLI0124,Eletrônicos,Webcam,Sul,Site,Pix,2,291.32,5,553.51,0.0,3.2,Não
+PED000939,2026-05-09,CLI0083,Games,Controle,Sudeste,Site,Pix,2,307.09,10,552.76,0.0,4.5,Não
+PED000829,2026-08-25,CLI0057,Casa,Liquidificador,Nordeste,App,Cartão de débito,4,170.72,10,614.59,0.0,4.5,Não
+PED000984,2026-10-13,CLI0035,Games,Microfone,Norte,App,Cartão de crédito,1,317.69,0,317.69,19.81,,Não
+PED000481,2026-10-13,CLI0171,Eletrônicos,Mouse sem fio,Centro-Oeste,Site,Pix,2,92.97,10,167.35,30.45,,Não
+PED001129,2026-09-11,CLI0253,Eletrônicos,Webcam,Sudeste,Site,Cartão de crédito,4,280.22,10,504.39,0.0,4.7,Não
+PED000284,2026-05-14,CLI0277,Eletrônicos,SSD 1TB,Sul,App,Pix,1,484.93,10,436.44,0.0,3.9,Não
+PED001030,2026-10-10,CLI0155,Acessórios,Cabo USB-C,Centro-Oeste,Site,Cartão de crédito,1,46.47,0,46.47,13.72,4.7,Não
+PED000798,2026-01-06,CLI0192,Eletrônicos,Teclado mecânico,Sul,Loja física,Boleto,1,258.94,15,220.1,34.48,,Não
+PED000940,2026-06-13,CLI0186,Eletrônicos,Mouse sem fio,Nordeste,App,Boleto,2,93.98,0,187.96,21.31,,Não
+PED000226,2026-09-01,CLI0121,Acessórios,Capa notebook,Sul,Site,Boleto,2,99.94,15,169.9,32.81,4.2,Não
+PED000027,2026-10-02,CLI0060,Games,Joystick,Centro-Oeste,Site,Cartão de crédito,5,390.2,5,1853.45,0.0,4.6,Não
+PED000283,2026-04-11,CLI0040,Casa,Aspirador,Nordeste,Loja física,Cartão de débito,2,424.91,5,807.33,0.0,,Não
+PED001150,2026-10-11,CLI0053,Acessórios,Película,Sudeste,App,Pix,1,36.88,5,35.04,13.65,3.4,Não
+PED000438,2026-04-06,CLI0149,Casa,Liquidificador,Sul,Site,Cartão de débito,3,172.84,5,492.59,0.0,3.1,Não
+PED001168,2026-10-30,CLI0117,Acessórios,Película,Sudeste,Loja física,Cartão de crédito,4,36.76,0,147.04,36.78,4.8,Não
+PED000365,2026-02-03,CLI0069,Acessórios,Capa notebook,Sudeste,Loja física,Pix,1,94.1,0,94.1,13.51,5.0,Não
+PED000230,2026-07-25,CLI0170,Games,Suporte headset,Nordeste,Site,Cartão de crédito,1,87.61,0,87.61,32.63,4.7,Não
+PED000038,2026-10-01,CLI0202,Acessórios,Carregador,Sul,App,Pix,1,128.7,0,128.7,18.76,3.9,Não
+PED000670,2026-02-12,CLI0141,Escritório,Mesa,Sudeste,Site,Cartão de crédito,3,904.36,5,2577.43,0.0,4.7,Não
+PED000750,2026-01-23,CLI0180,Escritório,Mochila,Sudeste,App,Pix,1,225.7,5,214.41,33.56,3.1,Não
+PED001181,2026-04-18,CLI0264,Acessórios,Carregador,Nordeste,App,Cartão de crédito,4,131.79,5,500.8,0.0,4.4,Não
+PED000375,2026-04-13,CLI0142,Casa,Luminária,Sul,App,Cartão de crédito,1,93.06,0,93.06,36.92,3.2,Não
+PED000470,2026-05-01,CLI0074,Games,Joystick,Sudeste,Site,Pix,1,461.1,0,461.1,0.0,4.4,Não
+PED000883,2026-08-04,CLI0021,Games,Suporte headset,Sudeste,App,Cartão de débito,2,90.31,15,153.53,33.14,4.6,Não
+PED001182,2026-03-13,CLI0240,Casa,Ventilador,Sudeste,Site,Boleto,3,220.98,0,662.94,0.0,,Não
+PED000688,2026-08-12,CLI0099,Acessórios,Película,Sudeste,Site,Cartão de débito,2,43.59,0,87.18,32.62,3.3,Não
+PED000033,2026-09-23,CLI0286,Casa,Liquidificador,Sudeste,App,Cartão de crédito,3,185.93,20,446.23,0.0,4.9,Não
+PED001011,2026-02-07,CLI0153,Eletrônicos,Teclado mecânico,Sudeste,Loja física,Pix,1,226.1,5,214.79,31.51,4.6,Não
+PED001176,2026-08-12,CLI0041,Acessórios,Película,Sudeste,Site,Pix,1,42.72,0,42.72,13.5,3.8,Não
+PED000195,2026-03-20,CLI0159,Games,Suporte headset,Sudeste,Loja física,Boleto,1,86.78,5,82.44,31.84,4.3,Não
+PED001106,2026-04-23,CLI0309,Casa,Aspirador,Centro-Oeste,App,Cartão de débito,2,412.48,5,783.71,0.0,4.6,Não
+PED001114,2026-03-12,CLI0285,Acessórios,Carregador,Nordeste,App,Cartão de crédito,2,119.28,0,238.56,13.24,4.4,Não
+PED001064,2026-06-20,CLI0221,Casa,Aspirador,Norte,Site,Pix,2,370.87,0,741.74,0.0,3.9,Não
+PED000504,2026-04-27,CLI0115,Eletrônicos,SSD 1TB,Sul,Loja física,Cartão de débito,3,484.74,5,1381.51,0.0,,Não
+PED000916,2026-06-21,CLI0225,Casa,Liquidificador,Sudeste,Site,Cartão de débito,2,172.27,0,344.54,26.23,3.2,Não
+PED000977,2026-10-28,CLI0180,Eletrônicos,Webcam,Norte,App,Boleto,1,305.81,10,275.23,14.26,3.2,Não
+PED001183,2026-02-18,CLI0280,Eletrônicos,Headset,Norte,App,Pix,2,209.93,5,398.87,0.0,4.8,Não
+PED001088,2026-05-22,CLI0069,Games,Mousepad,Sul,App,Pix,2,72.51,10,130.52,13.5,,Não
+PED000801,2026-10-19,CLI0223,Casa,Aspirador,Sudeste,App,Cartão de débito,1,415.87,5,395.08,0.0,,Não
+PED000580,2026-07-04,CLI0086,Acessórios,Cabo USB-C,Sul,Site,Cartão de crédito,1,46.47,20,37.18,24.53,,Não
+PED000161,2026-06-27,CLI0224,Eletrônicos,SSD 1TB,Sudeste,Site,Cartão de crédito,2,468.69,20,749.9,0.0,4.3,Não
+PED000681,2026-06-12,CLI0224,Casa,Ventilador, Sudeste ,App,Pix,1,243.59,0,243.59,31.82,,Não
+PED000550,2026-03-18,CLI0028,Games,Microfone,Sul,Site,Pix,2,355.78,5,675.98,0.0,,Não
+PED000163,2026-06-12,CLI0047,Casa,Ventilador,Sudeste,Site,Pix,1,222.27,0,222.27,23.67,3.8,Não
+PED000822,2026-09-07,CLI0043,Games,Controle,Sudeste,Loja física,Pix,1,288.82,10,259.94,12.77,3.3,Não
+PED000706,2026-09-15,CLI0245,Eletrônicos,Teclado mecânico,Nordeste,Loja física,Cartão de crédito,1,258.97,0,258.97,20.64,4.9,Não
+PED001009,2026-02-26,CLI0083,Acessórios,Carregador,Nordeste,App,Pix,1,107.92,5,102.52,32.77,3.8,Não
+PED000878,2026-08-30,CLI0225,Eletrônicos,SSD 1TB,Sudeste,Site,Cartão de crédito,1,420.39,20,336.31,35.67,3.5,Sim
+PED000896,2026-06-08,CLI0156,Casa,Ventilador,Sudeste,App,Cartão de débito,4,222.83,5,846.75,0.0,3.6,Não
+PED000914,2026-04-05,CLI0035,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,1,285.33,0,285.33,36.27,,Não
+PED000804,2026-08-22,CLI0223,Acessórios,Capa notebook,Nordeste,Site,Pix,2,101.92,5,193.65,22.43,4.9,Não
+PED000153,2026-04-24,CLI0009,Eletrônicos,SSD 1TB,Sudeste,Loja física,Cartão de crédito,1,427.93,0,427.93,0.0,4.7,Não
+PED000979,2026-09-17,CLI0258,Games,Controle,Sudeste,Site,Cartão de crédito,3,302.04,10,815.51,0.0,3.2,Não
+PED001003,2026-02-03,CLI0012,Games,Mousepad,Sudeste,Site,Pix,2,83.48,15,141.92,14.33,3.5,Não
+PED000510,2026-08-03,CLI0284,Games,Microfone,CENTRO-OESTE,App,Pix,1,372.78,15,316.86,27.87,3.8,Não
+PED000112,2026-01-17,CLI0231,Acessórios,Capa notebook,Norte,Site,Cartão de crédito,2,100.49,0,200.98,28.89,3.2,Não
+PED000227,2026-03-27,CLI0099,Acessórios,Carregador,Sudeste,Site,Boleto,1,131.82,5,125.23,33.69,4.8,Não
+PED000986,2026-09-03,CLI0089,Acessórios,Película,Sudeste,App,Cartão de crédito,3,37.08,0,111.24,25.26,,Não
+PED000852,2026-08-07,CLI0250,Eletrônicos,Webcam,Nordeste,App,Pix,5,272.82,5,1295.89,0.0,,Sim
+PED000104,2026-01-25,CLI0319,Escritório,Cadeira,Sul,Site,Boleto,2,632.21,5,1201.2,0.0,3.3,Não
+PED000422,2026-09-03,CLI0083,Eletrônicos,Mouse sem fio,Nordeste,Loja física,Cartão de crédito,1,89.09,10,80.18,34.73,4.6,Não
+PED000420,2026-06-17,CLI0114,Casa,Liquidificador,Centro-Oeste,App,Pix,2,162.09,20,259.34,13.04,4.5,Não
+PED000625,2026-01-03,CLI0102,Escritório,Hub USB,Sudeste,Site,Pix,1,144.84,0,144.84,29.32,,Sim
+PED000587,2026-07-23,CLI0004,Escritório,Mesa,Norte,App,Pix,1,935.23,5,888.47,0.0,4.5,Não
+PED001061,2026-07-26,CLI0291,Games,Microfone,Norte,Site,Cartão de débito,1,332.01,20,265.61,36.22,,Não
+PED000920,2026-03-24,CLI0011,Acessórios,Power bank,Sudeste,Site,Pix,1,204.32,15,173.67,37.67,4.3,Não
+PED000673,2026-06-12,CLI0209,Casa,Ventilador,Sudeste,App,Boleto,4,257.04,5,976.75,0.0,4.2,Não
+PED000120,2026-08-21,CLI0031,Acessórios,Power bank,Sudeste,Site,Cartão de crédito,1,176.37,15,149.91,20.3,,Não
+PED000054,2026-09-14,CLI0225,Acessórios,Power bank,Sudeste,Site,Cartão de crédito,1,180.42,0,180.42,37.01,,Não
+PED000152,2026-08-27,CLI0184,Escritório,Hub USB,,Site,Cartão de débito,1,158.98,10,143.08,31.8,3.4,Não
+PED000404,2026-01-02,CLI0247,Games,Mousepad,Sudeste,App,Boleto,1,76.75,0,76.75,37.92,3.7,Não
+PED001189,2026-01-23,CLI0283,Escritório,Hub USB,Nordeste,Site,Pix,4,155.62,5,591.36,0.0,3.8,Não
+PED000208,2026-04-24,CLI0206,Eletrônicos,Mouse sem fio,Sudeste,App,Cartão de crédito,2,85.56,10,154.01,12.57,4.8,Não
+PED001135,2026-07-20,CLI0014,Eletrônicos,SSD 1TB,Norte,App,Pix,1,492.1,0,492.1,0.0,4.5,Não
+PED000659,2026-06-08,CLI0104,Games,Controle,Sul,Site,Pix,5,303.79,5,1443.0,0.0,,Não
+PED001097,2026-01-10,CLI0029,Casa,Ventilador,Sul,Site,Pix,3,220.15,15,561.38,0.0,3.3,Não
+PED000233,2026-01-17,CLI0185,Eletrônicos,Teclado mecânico,Nordeste,Site,Cartão de débito,2,256.67,0,513.34,0.0,3.7,Não
+PED000009,2026-02-27,CLI0081,Escritório,Suporte notebook,Sul,Loja física,Cartão de débito,1,129.92,0,129.92,35.73,,Não
+PED000160,2026-03-15,CLI0204,Casa,Aspirador,Centro-Oeste,Site,Cartão de crédito,2,427.85,10,770.13,0.0,3.8,Não
+PED000037,2026-10-03,CLI0280,Acessórios,Película,Nordeste,Loja física,Cartão de crédito,1,39.79,0,39.79,29.39,,Não
+PED000453,2026-09-13,CLI0298,Casa,Ventilador,Sul,App,Cartão de débito,4,233.0,5,885.4,0.0,,Sim
+PED000652,2026-07-05,CLI0009,Eletrônicos,Teclado mecânico,Sudeste,Site,Pix,1,270.46,0,270.46,34.08,,Não
+PED000254,2026-07-14,CLI0314,Casa,Aspirador,Sudeste,App,Cartão de débito,5,370.36,15,1574.03,0.0,3.8,Não
+PED000304,2026-09-04,CLI0035,Games,Controle,Sudeste,App,Pix,2,317.9,0,635.8,0.0,4.1,Não
+PED000897,2026-07-03,CLI0037,Games,Controle,Sul,App,Cartão de crédito,2,284.83,5,541.18,0.0,,Não
+PED001049,2026-02-28,CLI0171,Eletrônicos,Headset,Sudeste,Site,Cartão de crédito,2,183.06,0,366.12,0.0,4.5,Não
+PED000881,2026-06-18,CLI0129,Escritório,Mochila,Norte,Site,Pix,3,227.56,5,648.55,0.0,4.3,Não
+PED000572,2026-04-08,CLI0278,Escritório,Mochila,Sudeste,Site,Pix,1,231.43,0,231.43,29.0,3.4,Não
+PED000624,2026-09-07,CLI0129,Acessórios,Cabo USB-C,Sudeste,Site,Pix,1,46.73,10,42.06,14.83,4.7,Não
+PED001145,2026-07-16,CLI0318,Games,Suporte headset,Norte,App,Cartão de crédito,3,98.72,0,296.16,23.67,3.9,Sim
+PED001031,2026-08-26,CLI0166,Casa,Ventilador,Sul,App,Cartão de crédito,2,247.5,20,396.0,0.0,,Não
+PED001146,2026-01-04,CLI0264,Acessórios,Carregador,Norte,App,Boleto,1,130.68,0,130.68,17.68,,Não
+PED000263,2026-07-18,CLI0311,Casa,Cafeteira,Centro-Oeste,App,Pix,5,238.19,10,1071.86,0.0,4.9,Sim
+PED000611,2026-10-03,CLI0051,Escritório,Mochila,Nordeste,Site,Pix,1,256.98,0,256.98,15.49,4.2,Não
+PED000298,2026-08-17,CLI0083,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de débito,3,255.6,10,345.06,0.0,3.8,Não
+PED000990,2026-10-02,CLI0158,Escritório,Suporte notebook,Centro-Oeste,Site,Cartão de crédito,2,138.72,5,263.57,26.56,4.2,Não
+PED000415,2026-04-18,CLI0172,Escritório,Suporte notebook,Sul,Loja física,Cartão de crédito,1,118.27,5,112.36,16.11,4.0,Não
+PED000151,2026-01-08,CLI0098,Escritório,Suporte notebook,Norte,Site,Boleto,1,123.21,5,117.05,17.32,,Não
+PED000946,2026-10-17,CLI0010,Casa,Luminária,Sul,Site,Pix,1,94.57,15,160.76,20.13,,Sim
+PED000473,2026-02-16,CLI0121,Escritório,Suporte notebook,Sudeste,Loja física,Pix,1,125.15,10,112.64,28.76,,Não
+PED000953,2026-03-05,CLI0168,Escritório,Cadeira,Sul,Site,Pix,2,706.92,5,1343.15,0.0,3.8,Não
+PED000988,2026-08-19,CLI0116,Escritório,Hub USB,Nordeste,Site,Cartão de crédito,3,161.55,5,460.42,0.0,,Não
+PED000779,2026-03-15,CLI0043,Escritório,Suporte notebook,Sudeste,Site,Cartão de débito,2,123.4,0,246.8,28.03,4.4,Não
+PED000641,2026-10-10,CLI0227,Escritório,Mochila,Sudeste,Site,Cartão de crédito,3,252.03,0,756.09,0.0,4.5,Não
+PED001190,2026-07-23,CLI0024,Acessórios,Capa notebook,Centro-Oeste,Loja física,Cartão de crédito,1,102.09,0,102.09,18.47,4.2,Não
+PED001143,2026-06-20,CLI0004,Eletrônicos,Webcam,Centro-Oeste,Site,Cartão de débito,1,264.76,5,251.52,18.03,,Não
+PED000551,2026-03-27,CLI0261,Games,Controle,Sudeste,App,Pix,2,301.43,5,572.72,0.0,,Não
+PED000640,2026-07-02,CLI0144,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Cartão de crédito,5,94.9,10,427.05,0.0,4.5,Não
+PED000936,2026-02-16,CLI0120,Casa,Cafeteira,Sudeste,App,Pix,2,206.38,10,371.48,0.0,4.0,Não
+PED000929,2026-07-09,CLI0070,Escritório,Cadeira,Sul,App,Boleto,1,760.8,20,608.64,0.0,4.3,Não
+PED000489,2026-06-15,CLI0037,Eletrônicos,Headset,Sul,App,Pix,1,189.51,10,170.56,22.37,3.4,Não
+PED000820,2026-04-24,CLI0167,Escritório,Cadeira,Sudeste,App,Cartão de crédito,2,694.39,5,1319.34,0.0,4.1,Não
+PED000711,2026-09-27,CLI0179,Games,Joystick,Centro-Oeste,Site,Pix,5,413.51,0,2067.55,0.0,3.7,Não
+PED001081,2026-07-12,CLI0283,Casa,Aspirador,Nordeste,App,Pix,1,392.72,15,333.81,26.51,4.6,Não
+PED000148,2026-08-07,CLI0025,Games,Mousepad,Norte,Loja física,Cartão de crédito,3,77.0,0,231.0,15.88,4.5,Não
+PED000147,2026-09-15,CLI0295,Eletrônicos,Teclado mecânico,Sudeste,App,Cartão de crédito,1,239.99,0,239.99,29.17,3.6,Não
+PED001175,2026-04-15,CLI0003,Acessórios,Cabo USB-C,Sudeste,Loja física,Cartão de débito,3,50.97,0,152.91,33.06,,Não
+PED000963,2026-01-26,CLI0141,Eletrônicos,SSD 1TB,Centro-Oeste,Site,Pix,2,-428.58,0,857.16,0.0,3.4,Não
+PED000346,2026-06-25,CLI0057,Escritório,Cadeira,Sudeste,Site,Pix,2,659.57,5,1253.18,0.0,,Não
+PED000403,2026-07-19,CLI0169,Eletrônicos,Mouse sem fio,Centro-Oeste,App,Cartão de crédito,4,89.73,5,340.97,33.95,,Não
+PED000932,2026-06-04,CLI0241,Games,Controle,Sudeste,Site,Cartão de crédito,2,290.04,10,522.07,0.0,,Não
+PED000955,2026-07-02,CLI0212,Eletrônicos,Headset,Sudeste,Site,Pix,1,196.56,10,176.9,30.06,3.2,Não
+PED001125,2026-06-17,CLI0234,Games,Mousepad,Nordeste,Loja física,Cartão de crédito,2,82.81,0,165.62,28.21,4.6,Não
+PED000660,2026-06-08,CLI0145,Escritório,Cadeira,Norte,App,Pix,1,679.72,0,679.72,0.0,3.7,Não
+PED000464,2026-01-10,CLI0265,Games,Mousepad,Centro-Oeste,App,Pix,5,83.77,5,397.91,0.0,,Não
+PED000187,2026-03-05,CLI0226,Acessórios,Cabo USB-C,Sul,Loja física,Cartão de crédito,5,53.99,15,229.46,19.85,,Não
+PED000609,2026-04-03,CLI0229,Eletrônicos,Teclado mecânico,Nordeste,Site,Pix,1,232.97,5,221.32,34.14,5.0,Não
+PED000144,2026-07-15,CLI0194,Acessórios,Power bank,Sudeste,App,Cartão de crédito,2,195.73,0,391.46,0.0,4.1,Não
+PED000752,2026-02-24,CLI0161,Games,Controle,Sul,App,Cartão de crédito,2,290.55,0,581.1,0.0,,Não
+PED000982,2026-01-13,CLI0188,Games,Suporte headset,Nordeste,Site,Cartão de crédito,4,87.53,5,332.61,22.88,3.9,Não
+PED000198,2026-10-23,CLI0255,Eletrônicos,Headset,Sul,Site,Cartão de crédito,2,194.61,0,389.22,0.0,4.1,Não
+PED000884,2026-10-18,CLI0169,Eletrônicos,Teclado mecânico,Sudeste,Loja física,Cartão de débito,2,267.36,0,534.72,0.0,,Não
+PED000280,2026-10-09,CLI0035,Games,Joystick,Sudeste,Site,Cartão de crédito,4,417.62,10,1503.43,0.0,3.6,Não
+PED000294,2026-08-04,CLI0023,Acessórios,Capa notebook,Nordeste,Site,Boleto,2,105.27,0,210.54,32.92,,Não
+PED001089,2026-07-01,CLI0270,Casa,Liquidificador,Sudeste,Site,Cartão de crédito,1,169.89,0,169.89,14.66,4.2,Não
+PED000401,2026-02-01,CLI0171,Eletrônicos,Headset,Norte,Site,Cartão de débito,1,182.68,20,146.14,17.22,4.3,Não
+PED000123,2026-01-26,CLI0306,Escritório,Cadeira,Centro-Oeste,App,Cartão de crédito,2,748.5,5,1422.15,0.0,,Não
+PED000203,2026-04-16,CLI0215,Escritório,Cadeira,Sul,Site,Boleto,2,642.93,15,1092.98,0.0,,Não
+PED000836,2026-09-25,CLI0249,Games,Microfone,Nordeste,Loja física,Cartão de crédito,2,341.49,5,648.83,0.0,3.4,Não
+PED000247,2026-09-16,CLI0188,Eletrônicos,SSD 1TB,Nordeste,App,Pix,2,484.85,5,921.22,0.0,3.1,Não
+PED001140,2026-05-20,CLI0121,Acessórios,Cabo USB-C,CENTRO-OESTE,App,Cartão de débito,1,46.53,0,46.53,20.6,,Não
+PED000385,2026-07-09,CLI0001,Escritório,Cadeira,Nordeste,App,Pix,3,751.09,0,2253.27,0.0,3.8,Não
+PED000855,2026-10-22,CLI0271,Eletrônicos,Teclado mecânico,Nordeste,App,Boleto,3,244.98,0,734.94,0.0,3.8,Não
+PED000220,2026-09-03,CLI0296,Acessórios,Cabo USB-C,Nordeste,App,Pix,1,53.35,0,53.35,20.29,,Não
+PED000642,2026-09-11,CLI0095,Acessórios,Cabo USB-C,Nordeste,Site,Cartão de crédito,4,46.71,0,186.84,20.06,,Não
+PED000002,2026-04-23,CLI0143,Games,Joystick,Nordeste,Site,Cartão de débito,2,416.16,0,832.32,0.0,,Não
+PED000113,2026-07-18,CLI0135,Acessórios,Capa notebook,Nordeste,App,Pix,2,103.78,20,166.05,17.2,3.1,Não
+PED000699,2026-06-01,CLI0181,Eletrônicos,Headset,Sul,Loja física,Cartão de crédito,2,188.14,0,376.28,0.0,,Não
+PED000952,2026-08-17,CLI0285,Acessórios,Carregador,Sudeste,Site,Pix,4,118.84,0,475.36,0.0,3.6,Não
+PED001079,2026-01-22,CLI0241,Escritório,Mochila,Sudeste,Site,Pix,2,216.04,0,432.08,0.0,3.7,Não
+PED000442,2026-03-27,CLI0162,Eletrônicos,SSD 1TB,Nordeste,App,Pix,2,477.22,0,954.44,0.0,4.6,Não
+PED000664,2026-02-18,CLI0087,Eletrônicos,Webcam,Centro-Oeste,Site,Pix,1,256.91,0,256.91,32.07,3.9,Não
+PED000567,2026-04-17,CLI0237,Casa,Luminária,Sudeste,App,Cartão de crédito,1,96.78,0,96.78,17.05,3.5,Não
+PED000318,2026-01-18,CLI0167,Casa,Cafeteira,Centro-Oeste,Site,Cartão de débito,4,222.04,0,888.16,0.0,,Não
+PED000649,2026-03-18,CLI0076,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,3,89.51,0,268.53,27.02,,Não
+PED000710,2026-03-14,CLI0016,Acessórios,Carregador,Sudeste,App,Boleto,1,125.76,0,125.76,36.83,4.9,Não
+PED000973,2026-09-25,CLI0202,Games,Joystick,Sudeste,Site,Pix,2,396.06,5,752.51,0.0,4.7,Não
+PED000628,2026-02-12,CLI0127,Escritório,Hub USB,Sul,App,Pix,1,138.36,0,138.36,30.22,3.9,Não
+PED000633,2026-02-14,CLI0309,Games,Joystick,Sudeste,App,Boleto,2,403.28,10,725.9,0.0,,Não
+PED001172,2026-08-05,CLI0279,Acessórios,Carregador,Sudeste,Site,Cartão de crédito,1,110.49,5,104.97,34.58,3.7,Não
+PED001107,2026-07-28,CLI0073,Eletrônicos,Headset,Centro-Oeste,App,Cartão de crédito,1,212.08,10,190.87,22.56,,Não
+PED000796,2026-04-09,CLI0257,Eletrônicos,Mouse sem fio,Sudeste,Site,Pix,1,91.85,10,82.66,22.64,4.7,Sim
+PED000646,2026-02-22,CLI0213,Games,Microfone,Sudeste,Loja física,Pix,1,325.22,5,308.96,17.87,,Não
+PED001013,2026-01-27,CLI0052,Casa,Ventilador,Sudeste,Site,Cartão de crédito,1,247.26,5,234.9,27.55,4.0,Não
+PED000557,2026-04-27,CLI0108,Acessórios,Carregador,Sul,App,Cartão de débito,2,125.24,5,237.96,32.59,3.4,Não
+PED000682,2026-04-15,CLI0014,Casa,Luminária,Sudeste,App,Cartão de crédito,1,104.05,15,88.44,14.05,4.5,Não
+PED000578,2026-07-15,CLI0094,Casa,Aspirador,Sul,Site,Cartão de débito,1,375.3,5,356.53,0.0,3.4,Não
+PED000525,2026-10-28,CLI0261,Casa,Aspirador,Nordeste,Site,Pix,1,397.09,0,397.09,0.0,3.8,Não
+PED001060,2026-05-01,CLI0197,Casa,Cafeteira,Sudeste,Loja física,Cartão de crédito,4,202.74,10,729.86,0.0,4.4,Não
+PED000541,2026-10-28,CLI0053,Games,Microfone,Sudeste,App,Cartão de crédito,3,378.2,0,1134.6,0.0,3.7,Não
+PED000749,2026-02-28,CLI0095,Eletrônicos,Teclado mecânico,Nordeste,Loja física,Cartão de crédito,1,260.76,0,260.76,30.58,3.5,Não
+PED001110,2026-01-21,CLI0085,Games,Microfone,Sul,Site,Pix,3,345.3,0,1035.9,0.0,,Não
+PED000485,2026-08-28,CLI0254,Escritório,Mesa,Sudeste,Site,Cartão de crédito,2,898.64,10,1617.55,0.0,,Não
+PED000096,2026-10-26,CLI0180,Escritório,Cadeira,Sudeste,App,Cartão de crédito,1,729.13,0,729.13,0.0,4.3,Não
+PED001021,2026-04-25,CLI0113,Casa,Aspirador,Centro-Oeste,Site,Boleto,4,415.69,5,1579.62,0.0,3.8,Não
+PED000564,2026-08-24,CLI0021,Games,Joystick,Nordeste,Site,Cartão de débito,1,447.12,10,402.41,0.0,4.2,Não
+PED000743,2026-07-16,CLI0196,Escritório,Mochila,Sudeste,Site,Pix,1,236.59,0,236.59,19.93,3.7,Não
+PED000864,2026-07-11,CLI0319,Escritório,Hub USB,Sudeste,App,Pix,3,135.94,15,346.65,35.75,3.8,Não
+PED000892,2026-05-15,CLI0187,Escritório,Suporte notebook,Centro-Oeste,Loja física,Pix,1,141.8,0,141.8,34.36,,Não
+PED001039,2026-05-06,CLI0051,Eletrônicos,Headset,Sudeste,App,Pix,2,206.77,0,413.54,0.0,,Não
+PED000207,2026-07-22,CLI0154,Casa,Luminária,Sudeste,Loja física,Pix,1,98.94,10,89.05,18.5,4.6,Não
+PED000393,2026-05-24,CLI0132,Escritório,Mesa,Sudeste,Site,Pix,2,837.11,5,1590.51,0.0,,Não
+PED000795,2026-01-09,CLI0163,Escritório,Mesa,Centro-Oeste,Site,Boleto,2,875.83,0,1751.66,0.0,3.8,Não
+PED000871,2026-02-19,CLI0176,Games,Joystick,,Site,Cartão de débito,1,389.1,5,369.64,0.0,5.0,Não
+PED000398,2026-09-24,CLI0093,Games,Mousepad,Sudeste,Site,Pix,1,78.48,5,74.56,29.82,4.5,Não
+PED000767,2026-05-16,CLI0249,Casa,Liquidificador,Nordeste,App,Pix,1,193.42,20,154.74,34.29,,Não
+PED001100,2026-10-09,CLI0271,Casa,Ventilador,Sudeste,Site,Pix,1,250.64,0,250.64,29.34,4.4,Não
+PED001029,2026-01-19,CLI0301,Casa,Liquidificador,Centro-Oeste,Site,Boleto,1,187.92,0,187.92,20.65,3.5,Não
+PED000643,2026-02-05,CLI0219,Games,Mousepad,Sudeste,Loja física,Boleto,1,80.33,10,72.3,33.01,3.8,Não
+PED000613,2026-07-10,CLI0262,Escritório,Mesa,Sul,Site,Pix,5,887.95,0,4439.75,0.0,3.2,Não
+PED000961,2026-07-04,CLI0118,Games,Microfone,Sul,Loja física,Pix,2,336.6,0,673.2,0.0,3.7,Não
+PED000726,2026-06-05,CLI0248,Casa,Luminária,Sudeste,Site,Cartão de crédito,2,108.44,10,195.19,25.66,3.6,Sim
+PED000684,2026-02-22,CLI0306,Eletrônicos,SSD 1TB,Sudeste,Site,Pix,1,421.03,10,378.93,0.0,,Não
+PED000099,2026-01-23,CLI0122,Casa,Ventilador,Norte,App,Cartão de crédito,3,227.14,0,681.42,0.0,,Não
+PED000805,2026-08-04,CLI0138,Games,Controle,Norte,Site,Pix,2,325.23,15,552.89,0.0,,Sim
+PED000407,2026-01-19,CLI0173,Acessórios,Cabo USB-C,Nordeste,Site,Pix,3,51.57,5,146.97,29.63,,Não
+PED000503,2026-05-01,CLI0025,Acessórios,Power bank,Norte,Site,Pix,2,177.55,15,301.84,25.09,,Não
+PED001072,2026-05-23,CLI0311,Games,Joystick,Sudeste,App,Cartão de crédito,1,421.8,0,421.8,0.0,4.9,Não
+PED001057,2026-07-13,CLI0141,Escritório,Hub USB,Sul,Site,Cartão de crédito,0,145.5,15,123.67,34.31,4.0,Sim
+PED000930,2026-09-11,CLI0303,Eletrônicos,Headset,Sudeste,Site,Cartão de débito,1,191.11,5,181.55,35.81,4.8,Não
+PED000780,2026-09-10,CLI0160,Casa,Cafeteira,Nordeste,App,Pix,2,224.24,15,381.21,0.0,3.4,Não
+PED000201,2026-05-25,CLI0160,Eletrônicos,Webcam,Sudeste,App,Pix,1,283.47,0,283.47,28.19,4.2,Não
+PED000135,2026-08-02,CLI0019,Eletrônicos,Teclado mecânico,Norte,Site,Cartão de crédito,4,273.0,15,928.2,0.0,,Não
+PED001052,2026-06-21,CLI0292,Casa,Cafeteira,Nordeste,Site,Cartão de débito,1,229.96,0,229.96,31.18,,Não
+PED000041,2026-03-25,CLI0297,Games,Controle,Sudeste,Site,Cartão de crédito,4,293.7,10,1057.32,0.0,4.4,Não
+PED001018,2026-02-03,CLI0085,Escritório,Hub USB,Centro-Oeste,App,Pix,1,161.87,5,153.78,37.47,,Sim
+PED000231,2026-03-10,CLI0227,Eletrônicos,Teclado mecânico,Nordeste,Site,Cartão de crédito,2,229.37,5,435.8,0.0,,Não
+PED000379,2026-13-05,CLI0170,Escritório,Hub USB,Nordeste,Loja física,Cartão de crédito,1,149.16,0,149.16,23.99,4.5,Não
+PED000289,2026-03-02,CLI0213,Escritório,Mochila,Nordeste,App,Cartão de crédito,1,226.02,0,226.02,33.67,3.1,Não
+PED000419,2026-10-23,CLI0118,,Mousepad,Sudeste,Loja física,Cartão de crédito,5,81.36,10,366.12,0.0,4.5,Não
+PED000392,2026-05-14,CLI0243,Escritório,Mochila,Sul,App,Cartão de crédito,1,251.29,0,251.29,24.6,3.2,Não
+PED000593,2026-07-04,CLI0167,Escritório,Cadeira,Nordeste,Site,Cartão de crédito,2,741.05,0,1482.1,0.0,,Sim
+PED001087,2026-06-07,CLI0144,Acessórios,Película,Centro-Oeste,App,Boleto,2,43.22,0,86.44,17.87,3.5,Não
+PED000648,2026-04-03,CLI0077,Escritório,Mochila,Centro-Oeste,App,Cartão de crédito,1,257.91,0,257.91,24.98,3.5,Não
+PED000521,2026-03-05,CLI0044,Escritório,Mochila,Sudeste,App,Cartão de crédito,1,243.27,0,243.27,24.37,,Não
+PED000065,2026-07-03,CLI0075,Eletrônicos,Headset,Sudeste,Site,Cartão de crédito,1,186.91,5,177.56,21.95,4.0,Não
+PED000015,2026-07-26,CLI0056,Eletrônicos,Mouse sem fio,Sudeste,Site,Cartão de crédito,1,85.92,0,85.92,36.0,4.7,Não
+PED001065,2026-10-08,CLI0070,Eletrônicos,Mouse sem fio,Sudeste,Site,Pix,1,81.12,5,77.06,15.13,4.2,Não
+PED000493,2026-10-19,CLI0040,Acessórios,Power bank,Centro-Oeste,App,Cartão de crédito,1,188.56,10,169.7,33.13,4.2,Não
+PED000380,2026-02-22,CLI0055,Casa,Aspirador,Sudeste,App,Cartão de débito,2,391.97,0,783.94,0.0,4.1,Sim
+PED000188,2026-05-09,CLI0085,Eletrônicos,Headset,Sudeste,App,Cartão de crédito,2,197.07,0,394.14,0.0,3.4,Não
+PED000764,2026-04-15,CLI0219,Eletrônicos,Headset,Nordeste,App,Cartão de débito,1,184.29,10,165.86,33.96,3.9,Não
+PED000217,2026-03-07,CLI0001,Escritório,Suporte notebook,Norte,Loja física,Pix,5,141.99,0,709.95,0.0,4.8,Sim
+PED000792,2026-09-27,CLI0301,Acessórios,Power bank,Sudeste,Site,Pix,1,205.91,5,195.61,12.87,4.0,Não
+PED001077,2026-04-08,CLI0051,Eletrônicos,Mouse sem fio,Sudeste,Loja física,Cartão de crédito,1,92.25,20,73.8,12.67,3.7,Não
+PED000879,2026-02-27,CLI0219,Acessórios,Power bank,Sul,Loja física,Cartão de crédito,3,199.72,0,599.16,0.0,5.0,Não
+PED000338,2026-06-04,CLI0114,Games,Mousepad,Sudeste,Site,Cartão de crédito,4,85.05,15,289.17,25.29,4.1,Não
+PED000720,2026-03-15,CLI0254,Casa,Aspirador,Sudeste,Loja física,Cartão de crédito,1,410.16,10,369.14,0.0,,Não
+PED000296,2026-09-24,CLI0106,Games,Controle,Nordeste,Site,Pix,1,308.99,0,308.99,34.23,3.7,Não
+PED001017,2026-01-07,CLI0215,Eletrônicos,Headset,Sul,Site,Cartão de débito,1,201.78,0,201.78,35.82,3.1,Não
+PED000456,2026-06-25,CLI0277,Escritório,Mochila,Sul,Loja física,Pix,1,259.81,0,259.81,20.18,3.9,Não
+PED000816,2026-05-21,CLI0317,Acessórios,Película,Sudeste,App,Cartão de débito,2,40.09,5,76.17,13.99,3.3,Sim
+PED000270,2026-03-08,CLI0131,Games,Microfone,Sudeste,Site,Boleto,1,379.9,5,360.9,0.0,,Não
+PED000996,2026-09-01,CLI0161,Games,Controle,Sudeste,Site,Pix,3,273.18,10,737.59,0.0,4.1,Não
+PED000202,2026-05-06,CLI0210,Casa,Aspirador,Sudeste,App,Cartão de crédito,2,360.68,0,721.36,0.0,,Não
+PED000162,2026-04-27,CLI0193,Acessórios,Película,Sudeste,App,Cartão de crédito,1,40.85,10,36.77,30.54,3.3,Não
+PED000730,2026-10-26,CLI0050,Casa,Cafeteira,Sudeste,App,Cartão de débito,1,215.86,5,205.07,13.87,4.5,Não
+PED000402,2026-04-22,CLI0055,Games,Joystick,Centro-Oeste,App,Pix,1,436.03,0,436.03,0.0,4.8,Não
+PED000703,2026-03-19,CLI0221,Acessórios,Carregador,Sul,Site,Pix,1,123.46,10,111.11,22.99,3.8,Não
+PED001130,2026-09-10,CLI0273,Games,Mousepad,Sudeste,App,Pix,1,81.9,0,81.9,13.35,3.1,Não
+PED000566,2026-02-04,CLI0112,Games,Microfone,Centro-Oeste,Site,Cartão de crédito,1,340.71,10,306.64,25.11,,Não
+PED001022,2026-05-05,CLI0247,Escritório,Cadeira,Norte,App,Cartão de crédito,4,637.88,0,2551.52,0.0,3.8,Sim
+PED001026,2026-01-20,CLI0021,Escritório,Cadeira,Sul,App,Pix,1,684.62,20,547.7,0.0,4.2,Não
+PED001105,2026-10-13,CLI0204,Games,Controle,Nordeste,Site,Pix,4,308.41,0,1233.64,0.0,4.1,Sim
+PED000206,2026-08-26,CLI0062,Acessórios,Power bank,Sudeste,App,Pix,2,193.82,0,387.64,0.0,,Não
+PED000035,2026-08-14,CLI0147,Casa,Luminária,Sudeste,Site,Cartão de débito,1,92.92,0,92.92,15.97,3.8,Não
+PED000776,2026-01-08,CLI0278,Acessórios,Cabo USB-C,Sul,Site,Cartão de crédito,3,46.85,5,133.52,20.12,4.0,Não
+PED000509,2026-02-05,CLI0162,,SSD 1TB,Sudeste,App,Cartão de crédito,1,417.32,15,354.72,0.0,4.1,Sim
+PED001184,2026-02-27,CLI0012,Acessórios,Carregador,Nordeste,App,Cartão de crédito,5,130.16,5,618.26,0.0,,Não
+PED000092,2026-08-14,CLI0227,Escritório,Mesa,Sul,App,Cartão de crédito,1,823.26,5,782.1,0.0,3.7,Não
+PED000898,2026-09-11,CLI0170,Casa,Cafeteira,Sudeste,Loja física,Cartão de crédito,4,214.95,0,859.8,0.0,3.3,Não
+PED000565,2026-05-08,CLI0317,Casa,Ventilador,Nordeste,Site,Boleto,1,243.19,0,243.19,36.59,4.7,Não
+PED000777,2026-04-14,CLI0296,Escritório,Hub USB,Sul,Site,Pix,5,151.73,5,720.72,0.0,,Não
+PED000242,2026-03-03,CLI0196,Casa,Aspirador,Sul,Site,Cartão de débito,1,439.28,0,439.28,0.0,,Não
+PED000014,2026-10-20,CLI0125,Games,Mousepad,Nordeste,App,Pix,1,78.8,5,74.86,24.14,,Não
+PED000316,2026-04-05,CLI0065,Acessórios,Carregador,Nordeste,App,Boleto,2,109.83,0,219.66,14.68,4.8,Não
+PED000601,2026-04-18,CLI0116,Escritório,Mesa,Nordeste,Site,Cartão de débito,1,897.65,0,897.65,0.0,,Não
+PED000388,2026-04-03,CLI0218,Games,Joystick,Sul,Site,Pix,1,438.89,5,416.95,0.0,,Não
+PED000167,2026-06-03,CLI0103,Games,Mousepad,Sul,Site,Pix,1,83.65,5,79.47,37.16,,Não
+PED000841,2026-04-12,CLI0302,Eletrônicos,Webcam,Sudeste,App,Cartão de crédito,2,300.12,0,600.24,0.0,,Não
+PED000021,2026-10-11,CLI0054,Games,Controle,Centro-Oeste,Site,Pix,1,303.09,0,303.09,27.73,3.4,Não
+PED000647,2026-03-28,CLI0053,Eletrônicos,Webcam,Norte,Site,Pix,1,272.09,15,231.28,14.2,3.3,Não
+PED001155,2026-08-28,CLI0255,Casa,Aspirador,Nordeste,Site,Cartão de crédito,3,370.97,20,890.33,0.0,,Não
+PED000832,2026-07-07,CLI0174,Eletrônicos,Teclado mecânico,Sudeste,Site,Cartão de crédito,1,241.4,10,217.26,23.91,4.5,Não
+PED000563,2026-10-22,CLI0104,Casa,Aspirador,Sul,App,Pix,1,371.32,0,371.32,0.0,4.6,Não
+PED001171,2026-03-02,CLI0264,Games,Controle,Sudeste,Site,Cartão de débito,2,294.66,0,589.32,0.0,3.6,Sim
+PED000687,2026-07-06,CLI0112,Casa,Liquidificador,Sudeste,Site,Pix,2,166.46,0,332.92,17.18,4.4,Não
+PED000958,2026-01-04,CLI0042,Games,Joystick,Sul,Site,Cartão de débito,1,405.2,5,384.94,0.0,,Não
+PED000190,2026-03-12,CLI0069,Escritório,Suporte notebook,Nordeste,App,Pix,2,132.77,0,265.54,21.13,4.5,Não
+PED000976,2026-10-29,CLI0315,Escritório,Hub USB,Sul,App,Boleto,2,145.45,0,290.9,24.31,,Não
+PED000700,2026-08-28,CLI0097,Eletrônicos,Teclado mecânico, Sul ,Site,Cartão de débito,3,250.6,0,751.8,0.0,,Não
+PED000511,2026-08-15,CLI0208,Games,Suporte headset,Nordeste,Loja física,Pix,2,87.92,10,158.26,34.88,4.1,Não
+PED001083,2026-10-08,CLI0128,Escritório,Mesa,Sul,Site,Cartão de crédito,2,821.46,0,1642.92,0.0,3.1,Não
+PED000475,2026-01-15,CLI0095,Escritório,Hub USB,Sul,App,Pix,1,153.75,0,153.75,14.14,4.0,Sim
+PED000857,2026-04-07,CLI0106,Games,Mousepad,Sudeste,Site,Cartão de crédito,4,72.54,0,290.16,21.06,4.7,Não
+PED000748,2026-05-22,CLI0161,Games,Controle,Norte,Site,Pix,3,285.48,5,813.62,0.0,3.3,Não
+PED000253,2026-08-04,CLI0086,Acessórios,Película,Sudeste,App,Pix,4,37.18,0,148.72,27.36,,Não
+PED000022,2026-09-08,CLI0027,Escritório,Mochila,Sudeste,Site,Pix,1,252.91,5,240.26,18.81,,Não
+PED000460,2026-06-22,CLI0276,Escritório,Cadeira,Sudeste,Site,Cartão de débito,2,756.09,0,1512.18,0.0,4.2,Sim
+PED000277,2026-09-15,CLI0155,Eletrônicos,Headset,Sul,Site,Boleto,1,212.78,0,212.78,16.06,4.5,Não
+PED000956,2026-05-14,CLI0029,Casa,Cafeteira,Nordeste,App,Pix,3,207.83,0,623.49,0.0,3.5,Não
+PED000386,2026-07-15,CLI0109,Acessórios,Película,Nordeste,Site,Pix,1,43.29,10,38.96,16.01,,Não
+PED000806,2026-03-13,CLI0171,Casa,Aspirador,Nordeste,Site,Pix,3,371.22,0,1113.66,0.0,3.9,Não
+PED000344,2026-02-27,CLI0217,Games,Controle,Sudeste,Site,Pix,2,316.08,0,632.16,0.0,4.6,Não
+PED000770,2026-04-01,CLI0059,Acessórios,Cabo USB-C,Sudeste,Site,Pix,3,53.29,15,135.89,27.63,3.1,Não
+PED000131,2026-04-26,CLI0148,Games,Microfone,Nordeste,App,Cartão de crédito,1,354.13,15,301.01,30.76,4.1,Não
+PED000872,2026-06-01,CLI0178,Eletrônicos,SSD 1TB,Sudeste,Site,Boleto,1,493.65,5,468.97,0.0,4.9,Sim
+PED001124,2026-07-07,CLI0172,Eletrônicos,Webcam,Sul,Site,Pix,1,283.79,10,255.41,25.59,,Não
+PED000088,2026-04-28,CLI0182,Acessórios,Capa notebook,Sudeste,Loja física,Pix,1,108.31,15,92.06,26.97,4.4,Não
+PED000331,2026-06-14,CLI0276,Games,Mousepad,Nordeste,Site,Cartão de crédito,3,74.37,0,223.11,22.65,3.2,Não
+PED000467,2026-08-05,CLI0019,Games,Joystick,Sudeste,Site,Pix,3,410.79,5,1170.75,0.0,3.1,Não
+PED000122,2026-10-23,CLI0098,Casa,Luminária,Nordeste,App,Cartão de crédito,2,96.07,0,192.14,36.58,4.9,Não
+PED001045,2026-06-14,CLI0102,Acessórios,Película,Centro-Oeste,Site,Pix,2,36.05,5,68.49,21.69,4.5,Não
+PED001096,2026-07-28,CLI0188,Games,Suporte headset,Sul,App,Pix,2,88.02,5,167.24,32.56,4.4,Não
+PED001131,2026-07-15,CLI0170,Escritório,Hub USB,Nordeste,App,Pix,1,143.29,5,136.13,32.24,3.7,Não
+PED000861,2026-07-04,CLI0034,Eletrônicos,Headset,Sudeste,App,Pix,5,183.29,5,870.63,0.0,3.9,Sim
+PED001127,2026-06-22,CLI0313,Casa,Luminária,Sul,App,Cartão de crédito,1,98.94,5,93.99,23.91,,Não
